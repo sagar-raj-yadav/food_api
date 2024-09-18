@@ -1,0 +1,2516 @@
+[
+  {
+    "id":1,
+      "name": "Jalaram Locho & Khaman",
+      "cuisine": "Gujarati, Snacks",
+      "time": "30-35 MINS",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Vegharela Khaman",
+          "price": "₹90.00",
+          "description": "Soft, spongy and full of flavour, this dish will leave you wanting more."
+        },
+        {
+          "id": 2,
+          "name": "Sev Khamani",
+          "price": "₹90.00",
+          "description": "A flavorsome and savory dish, perfect for a traditional Indian craving."
+        },
+        {
+          "id": 3,
+          "name": "Plain Locho",
+          "price": "₹70.00",
+          "description": "A delectable vegetarian delight that will captivate your taste buds with its simplicity and exquisite flavors."
+        },
+        {
+          "id": 4,
+          "name": "Nylon Khaman",
+          "price": "₹90.00",
+          "description": "A steamed and savoury snack that melts in your mouth. Serves 1."
+        },
+        {
+          "id": 5,
+          "name": "Idada Oil Masala",
+          "price": "₹75.00",
+          "description": "A flavorful and savory Locho dish."
+        },
+        {
+          "id": 6,
+          "name": "Vaghareli Patudi",
+          "price": "₹90.00",
+          "description": "A savory and flavorful vegetarian dish from the Locho category."
+        },
+        {
+          "id": 7,
+          "name": "Oil Locho",
+          "price": "₹100.00",
+          "description": "Savor every bite of this savory vegetarian delight."
+        },
+        {
+          "id": 8,
+          "name": "Dal Samosa (Fried)",
+          "price": "₹100.00",
+          "description": "Crispy fried samosas filled with a savoury lentil filling."
+        },
+        {
+          "id": 9,
+          "name": "Plain Khaman Saada",
+          "price": "₹60.00",
+          "description": "A delightful and traditional vegetarian dish from the Khaman category, offering a delightful blend of flavors and textures."
+        },
+        {
+          "id": 10,
+          "name": "Fafda",
+          "price": "₹170.00",
+          "description": "A crispy snack perfect for Holi."
+        },
+        {
+          "id": 11,
+          "name": "Rasawala Khaman (1 Plate)",
+          "price": "₹70.00",
+          "description": "Soft, fluffy and tangy, this Locho dish will leave your taste buds wanting more."
+        },
+        {
+          "id": 12,
+          "name": "Vagharela Patra",
+          "price": "₹90.00",
+          "description": "A savory and flavorful vegetarian dish served hot."
+        },
+        {
+          "id": 13,
+          "name": "Jalebi",
+          "price": "₹45.00",
+          "description": "A sweet and syrupy treat with a crispy outer layer."
+        },
+        {
+          "id": 14,
+          "name": "Butter Locho",
+          "price": "₹160.00",
+          "description": "A mouthwatering delight from Gayatri Khaman Special."
+        },
+        {
+          "id": 15,
+          "name": "Chinese Samosa (Fried)",
+          "price": "₹70.00",
+          "description": "A delectable Chinese twist on the classic samosa, featuring a crispy fried shell filled with a flavorful vegetable medley."
+        },
+        {
+          "id": 16,
+          "name": "Cheese Butter Locho",
+          "price": "₹100.00",
+          "description": "Indulge in the rich and creamy flavors of this mouth-watering cheese butter locho."
+        },
+        {
+          "id": 17,
+          "name": "Jalebi-Fafda Combo",
+          "price": "₹240.00",
+          "description": "Jalebi 250Gm + Fafda 250Gm"
+        },
+        {
+          "id": 18,
+          "name": "Combo 3",
+          "price": "₹340.00",
+          "description": "250 gm vagharela khaman + 250 gm vagharela patra + 250 gm patudi + 250 gm oil masala idada + 50 gm sev + 2 jeera masala soda"
+        },
+        {
+          "id": 19,
+          "name": "Vagharela Khaman [250 Gm]",
+          "price": "₹149.00"
+        },
+        {
+          "id": 20,
+          "name": "Vanela Gathiya",
+          "price": "₹170.00",
+          "description": "Crispy, crunchy, and satisfying bites that make for an irresistible snack."
+        },
+        {
+          "id": 21,
+          "name": "Live Oil Masala Khaman",
+          "price": "₹90.00",
+          "description": "A flavorful and aromatic vegetarian delight that will leave your taste buds craving for more."
+        },
+        {
+          "id": 22,
+          "name": "Chinese Samosa (Kacha)",
+          "price": "₹100.00",
+          "description": "A delightful Chinese take on the classic samosa, bursting with flavorful vegetable filling."
+        },
+        {
+          "id": 23,
+          "name": "Dal Kanda Samosa (Fried)",
+          "price": "₹100.00",
+          "description": "Crispy fried samosas filled with a delectable mixture of lentils and onions for a mouthwatering vegetarian delight."
+        },
+        {
+          "id": 24,
+          "name": "Dal Samosa (Kaccha)",
+          "price": "₹100.00",
+          "description": "A tempting and flavorful vegetable-filled delight that is sure to satisfy your taste buds."
+        },
+        {
+          "id": 25,
+          "name": "Dry Fruit Samosa (Fried)",
+          "price": "₹70.00",
+          "description": "A delectable samosa filled with a delightful blend of dry fruits, offering a satisfying crunch and irresistible flavor."
+        },
+        {
+          "id": 26,
+          "name": "Dry Fruit Samosa (Kacha)",
+          "price": "₹70.00",
+          "description": "A delectable samosa filled with a delightful blend of dried fruits to tantalize your tastebuds."
+        },
+        {
+          "id": 27,
+          "name": "Aloo Samosa Big",
+          "price": "₹40.00",
+          "description": "2 pcs"
+        },
+        {
+          "id": 28,
+          "name": "Locho Khiru 1 Kg",
+          "price": "₹200.00",
+          "description": "Indulge in a mouthwatering breakfast or snack that will surely satisfy your taste buds with this delectable Veg special."
+        },
+        {
+          "id": 29,
+          "name": "Papdi",
+          "price": "₹140.00",
+          "description": "A crunchy and flavorful mix that's both savory and sweet."
+        }
+      ]
+    
+  },
+  
+     {
+      "id":2,
+      "name": "Amdavadi Naylon Khaman- Bhatar",
+      "cuisine": "Gujarati, Snacks",
+      "time": "20-25 MINS",
+      "price_for_two": "₹270",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Only Nylon Khaman",
+          "price": "₹80.00",
+          "description": "Soft spongy preparation of mix pulses and chickpea flour. Serves 1."
+        },
+        {
+          "id": 2,
+          "name": "Khandavi (Patudi)",
+          "price": "₹80.00",
+          "description": "250 gm | A delightful and flavorful vegetarian dish from the Khaman category, offering a delightful blend of textures and tastes."
+        },
+        {
+          "id": 3,
+          "name": "Surti Vagharela Khaman",
+          "price": "₹80.00",
+          "description": "250 gm | A delectable and flavorful Gujarati specialty bursting with aromatic and tangy flavors."
+        },
+        {
+          "id": 4,
+          "name": "Vagharela Idra",
+          "price": "₹80.00",
+          "description": "A delectable and flavorful Khaman dish that will satisfy your taste buds."
+        },
+        {
+          "id": 5,
+          "name": "Khamani",
+          "price": "₹80.00",
+          "description": "A refreshing Gujarati snack - perfect to satisfy your cravings."
+        },
+        {
+          "id": 6,
+          "name": "Plain Khaman",
+          "price": "₹50.00",
+          "description": "A delectable and savory Khaman dish that will tantalize your taste buds."
+        },
+        {
+          "id": 7,
+          "name": "Sada Locho",
+          "price": "₹60.00",
+          "description": "A steamed surti snack served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 8,
+          "name": "Cheese Butter Locho",
+          "price": "₹90.00",
+          "description": "Indulge in the lusciousness of this melt-in-your-mouth delicacy, crafted with creamy cheese and silky butter, making every bite a heavenly experience."
+        },
+        {
+          "id": 9,
+          "name": "Oil Locho",
+          "price": "₹80.00",
+          "description": "A steamed surti snack prepared in oil served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 10,
+          "name": "Butter Locho",
+          "price": "₹120.00",
+          "description": "A steamed surti snack prepared in butter served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 11,
+          "name": "Fafda",
+          "price": "₹70.00",
+          "description": "A delectable and savory vegetarian delicacy from the Farsan category that will tantalize your taste buds."
+        },
+        {
+          "id": 12,
+          "name": "Vagharela Patra",
+          "price": "₹95.00",
+          "description": "A mouthwatering vegetarian delight that combines flavors and textures to create a delectable dish."
+        },
+        {
+          "id": 13,
+          "name": "Sada Patra",
+          "price": "₹65.00",
+          "description": "A delectable vegetarian delight with a perfect balance of flavors and a delightful texture."
+        },
+        {
+          "id": 14,
+          "name": "Sev",
+          "price": "₹105.00",
+          "description": "A delightful and savory dish filled with vibrant flavors and textures that make each bite truly enjoyable."
+        },
+        {
+          "id": 15,
+          "name": "Dry Fruit Samosa",
+          "price": "₹105.00",
+          "description": "Indulge in a delectable blend of savory and sweet flavors with this sumptuous veggie delight."
+        },
+        {
+          "id": 16,
+          "name": "Cheese Paneer Samosa",
+          "price": "₹200.00",
+          "description": "A delectable and flavorful vegetarian samosa filled with the creaminess of cheese and paneer."
+        }
+      ]
+    },
+  {
+      "id":3,
+      "name": "Jani Locho",
+      "cuisine": "Gujarati, Snacks",
+      "time": "35-40 MINS",
+      "price_for_two": "₹200",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Butter Locho",
+          "price": "₹90.00",
+          "description": "A steamed surti snack prepared in butter served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 2,
+          "name": "Oil Locho",
+          "price": "₹70.00",
+          "description": "A steamed surti snack prepared in oil served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 3,
+          "name": "Cheese Paneer Samosa",
+          "price": "₹105.00",
+          "description": "Exquisite blend of cheese and paneer wrapped in a crispy golden samosa shell, a delightful treat for vegetarians."
+        },
+        {
+          "id": 4,
+          "name": "Vagharela Khaman",
+          "price": "₹55.00",
+          "description": "A delicious Gujarati snack of khaman topped with a freshly prepared vaghar. Serves 1."
+        },
+        {
+          "id": 5,
+          "name": "Khamni (250gm) & Sev",
+          "price": "₹140.00",
+          "description": "Indulge in a mouthwatering blend of flavors and textures with our March Specials of Khamni & Sev."
+        },
+        {
+          "id": 6,
+          "name": "Cheese Locho",
+          "price": "₹120.00",
+          "description": "A steamed surti snack topped with cheese served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 7,
+          "name": "Sada Locho",
+          "price": "₹215.00",
+          "description": "A steamed surti snack served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 8,
+          "name": "Sada Khaman",
+          "price": "₹55.00",
+          "description": "Khaman made of fresh ground channa daal or channa flour (besan), soaked in water to make a soft thick paste and baked to a spongy bread-like texture. Serves 1."
+        },
+        {
+          "id": 9,
+          "name": "Idada",
+          "price": "₹55.00",
+          "description": "An exquisite delicacy from the Jani Specials boasting unique flavors and irresistible taste."
+        },
+        {
+          "id": 10,
+          "name": "Butter Locho (250 gm) & Sev",
+          "price": "₹190.00",
+          "description": "A steamed surti snack prepared in butter served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 11,
+          "name": "Khandvi",
+          "price": "₹55.00",
+          "description": "A delicate and savory delight from Jani Specials, offering a delightful blend of flavors and textures."
+        },
+        {
+          "id": 12,
+          "name": "Lasan Butter Locho",
+          "price": "₹100.00",
+          "description": "A steamed surti snack prepared in butter and garlic served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 13,
+          "name": "Vagharela Khaman (250gm) & Sev",
+          "price": "₹140.00",
+          "description": "An irresistible combination of fluffy, delectable Vagharela Khaman accompanied by a generous serving of crisp Sev."
+        },
+        {
+          "id": 14,
+          "name": "Oil Locho (500Gm) + Vagharela Khaman (250Gm) + Sev (100Gm)",
+          "price": "₹350.00",
+          "description": "Indulge in a tantalizing combination of Oil Locho, Vagharela Khaman, and crunchy Sev for a delectable family feast."
+        },
+        {
+          "id": 15,
+          "name": "Dal Kanda Samosa (250gm)",
+          "price": "₹150.00",
+          "description": "A savory delight filled with aromatic spices and a hearty dal filling, perfect for the month of March."
+        },
+        {
+          "id": 16,
+          "name": "Cheese Locho (120 gm) and Vagharela Khaman (150 gm) with Sev",
+          "price": "₹190.00",
+          "description": "Indulge in the delectable combination of Cheese Locho and Vagharela Khaman with Sev, a delightful veg dish that will leave you craving for more. Serves 1."
+        },
+        {
+          "id": 17,
+          "name": "Chinese Samosa",
+          "price": "₹80.00",
+          "description": "A delightful fusion of Chinese flavors wrapped in a crispy pastry, a true delight for vegetarians."
+        },
+        {
+          "id": 18,
+          "name": "Kacha Cheese Paneer Samosa",
+          "price": "₹200.00",
+          "description": "Indulge in the irresistible delight of our mouthwatering Jani Specials, showcasing the exquisite blend of creamy cheese and soft paneer bound together in a delectably crispy samosa."
+        },
+        {
+          "id": 19,
+          "name": "Oil Locho (250 gm) and Butter Locho (120 gm) with Sev",
+          "price": "₹210.00",
+          "description": "A mini combo of oil locho and butter locho served with green chilli, sev and chutney. Serves 1."
+        },
+        {
+          "id": 20,
+          "name": "Lassan Cheese Locho",
+          "price": "₹120.00",
+          "description": "A delightful and savory vegetarian delight that combines the smoothness of cheese with the exquisite flavors of Lassan, creating a tempting Locho dish."
+        },
+        {
+          "id": 21,
+          "name": "Butter Idada",
+          "price": "₹70.00",
+          "description": "Idada, a non-fermented version of dhokla, ideal for people with acidity and for Jains. Faster to make than khatta dhoklas. Serves 1."
+        },
+        {
+          "id": 22,
+          "name": "Plain Idada",
+          "price": "₹55.00",
+          "description": "A delectable vegetarian delight from Jani Specials that showcases simplicity and pure flavors."
+        },
+        {
+          "id": 23,
+          "name": "Cheese Idada",
+          "price": "₹90.00",
+          "description": "Indulge in the savory delight of Cheese Idada, a mouthwatering vegetarian specialty from our Jani Specials selection."
+        },
+        {
+          "id": 24,
+          "name": "Jain Khamani",
+          "price": "₹55.00",
+          "description": "A delectable Jain Special dish bursting with flavors that will tantalize your taste buds."
+        },
+        {
+          "id": 25,
+          "name": "Petis",
+          "price": "₹65.00",
+          "description": "A flavorful and satisfying veggie dish from our Jani Specials, showcasing authentic flavors."
+        },
+        {
+          "id": 26,
+          "name": "Samosa to Per Plate",
+          "price": "₹80.00",
+          "description": "Delicious Indian pastry filled with a flavorful mix of vegetables and spices, a flavor-packed delight!"
+        },
+        {
+          "id": 27,
+          "name": "Dal Samosa (Non Jain)",
+          "price": "₹65.00",
+          "description": "A delectable and flavorful veg specialty bursting with irresistible flavors."
+        }
+      ]
+    
+  },
+  {
+
+     "id":4,
+      "name": "Khaman- Bhatar",
+      "cuisine": "Gujarati, Snacks",
+      "time": "20-25 MINS",
+      "price_for_two": "₹270",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Only Nylon Khaman",
+          "price": "₹80.00",
+          "description": "Soft spongy preparation of mix pulses and chickpea flour. Serves 1."
+        },
+        {
+          "id": 2,
+          "name": "Khandavi (Patudi)",
+          "price": "₹80.00",
+          "description": "250 gm | A delightful and flavorful vegetarian dish from the Khaman category, offering a delightful blend of textures and tastes."
+        },
+        {
+          "id": 3,
+          "name": "Surti Vagharela Khaman",
+          "price": "₹80.00",
+          "description": "250 gm | A delectable and flavorful Gujarati specialty bursting with aromatic and tangy flavors."
+        },
+        {
+          "id": 4,
+          "name": "Vagharela Idra",
+          "price": "₹80.00",
+          "description": "A delectable and flavorful Khaman dish that will satisfy your taste buds."
+        },
+        {
+          "id": 5,
+          "name": "Khamani",
+          "price": "₹80.00",
+          "description": "A refreshing Gujarati snack - perfect to satisfy your cravings."
+        },
+        {
+          "id": 6,
+          "name": "Plain Khaman",
+          "price": "₹50.00",
+          "description": "A delectable and savory Khaman dish that will tantalize your taste buds."
+        },
+        {
+          "id": 7,
+          "name": "Sada Locho",
+          "price": "₹60.00",
+          "description": "A steamed Surti snack served with green chilli, sev, and chutney. Serves 1."
+        },
+        {
+          "id": 8,
+          "name": "Cheese Butter Locho",
+          "price": "₹90.00",
+          "description": "Indulge in the lusciousness of this melt-in-your-mouth delicacy, crafted with creamy cheese and silky butter, making every bite a heavenly experience."
+        },
+        {
+          "id": 9,
+          "name": "Oil Locho",
+          "price": "₹80.00",
+          "description": "A steamed Surti snack prepared in oil served with green chilli, sev, and chutney. Serves 1."
+        },
+        {
+          "id": 10,
+          "name": "Butter Locho",
+          "price": "₹120.00",
+          "description": "A steamed Surti snack prepared in butter served with green chilli, sev, and chutney. Serves 1."
+        },
+        {
+          "id": 11,
+          "name": "Fafda",
+          "price": "₹70.00",
+          "description": "A delectable and savory vegetarian delicacy from the Farsan category that will tantalize your taste buds."
+        },
+        {
+          "id": 12,
+          "name": "Vagharela Patra",
+          "price": "₹95.00",
+          "description": "A mouthwatering vegetarian delight that combines flavors and textures to create a delectable dish."
+        },
+        {
+          "id": 13,
+          "name": "Sada Patra",
+          "price": "₹65.00",
+          "description": "A delectable vegetarian delight with a perfect balance of flavors and a delightful texture."
+        },
+        {
+          "id": 14,
+          "name": "Sev",
+          "price": "₹105.00",
+          "description": "A delightful and savory dish filled with vibrant flavors and textures that make each bite truly enjoyable."
+        },
+        {
+          "id": 15,
+          "name": "Dry Fruit Samosa",
+          "price": "₹105.00",
+          "description": "Indulge in a delectable blend of savory and sweet flavors with this sumptuous veggie delight."
+        },
+        {
+          "id": 16,
+          "name": "Cheese Paneer Samosa",
+          "price": "₹200.00",
+          "description": "A delectable and flavorful vegetarian samosa filled with the creaminess of cheese and paneer."
+        }
+      ]
+    
+  },
+  {
+      "id":5,
+      "name": "Jalaram Locho & Rasawala Khaman",
+      "cuisine": "Gujarati, Snacks",
+      "time": "30-35 MINS",
+      "price_for_two": "₹200",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Fafda",
+          "price": "₹170.00",
+          "description": "Delight in the flavorful and enticing traditional Indian snack that brings a delightful crunch and a burst of traditional flavors."
+        },
+        {
+          "id": 2,
+          "name": "Idada Oil Masala",
+          "price": "₹75.00",
+          "description": "A flavorful and savory locho dish."
+        },
+        {
+          "id": 3,
+          "name": "Vagharela Patra",
+          "price": "₹90.00",
+          "description": "A flavorful and aromatic delicacy layered with enticing flavors, perfect for vegetarians."
+        },
+        {
+          "id": 4,
+          "name": "Vegharela Khaman",
+          "price": "₹90.00",
+          "description": "Soft, spongy and full of flavour, this dish will leave you wanting more."
+        },
+        {
+          "id": 5,
+          "name": "Nylon Khaman",
+          "price": "₹90.00",
+          "description": "A delectable and flavorful vegetarian delicacy that will tantalize your taste buds with its unique texture and delightful blend of flavors."
+        },
+        {
+          "id": 6,
+          "name": "Sev Khamani",
+          "price": "₹90.00",
+          "description": "Crushed khaman clubbed with sev and special in-house chutney. Serves 1."
+        },
+        {
+          "id": 7,
+          "name": "Plain Khaman Saada",
+          "price": "₹60.00",
+          "description": "Soft spongy preparation of mix pulses and chickpea flour. Serves 1."
+        },
+        {
+          "id": 8,
+          "name": "Plain Locho",
+          "price": "₹70.00",
+          "description": "A steamed surti snack served with green chilli and chutney."
+        },
+        {
+          "id": 9,
+          "name": "Butter Locho",
+          "price": "₹160.00",
+          "description": "A mouthwatering vegetarian delight, oozing with buttery goodness, that will surely leave you craving for more."
+        },
+        {
+          "id": 10,
+          "name": "Dal Samosa (Fried)",
+          "price": "₹100.00",
+          "description": "Crispy fried samosas filled with a savoury lentil filling."
+        },
+        {
+          "id": 11,
+          "name": "Dal Samosa (Kaccha)",
+          "price": "₹80.00",
+          "description": "A delectable vegetarian samosa with a delightful filling of aromatic lentils, encased in a crisp pastry shell."
+        },
+        {
+          "id": 12,
+          "name": "Jalebi-Fafda Combo",
+          "price": "₹240.00",
+          "description": "[Jalebi 250Gm + Fafda 250Gm]"
+        },
+        {
+          "id": 13,
+          "name": "Vanela Gathiya",
+          "price": "₹170.00",
+          "description": "Delicious vegetarian snack with a perfect blend of flavors and textures."
+        },
+        {
+          "id": 14,
+          "name": "Jalebi",
+          "price": "₹179.00",
+          "description": "A delectable Indian sweet that is crispy, syrupy, and simply irresistible."
+        },
+        {
+          "id": 15,
+          "name": "Gathiya-Jalebi Combo",
+          "price": "₹240.00",
+          "description": "[Gathiya 250Gm + Jalebi 250Gm]"
+        },
+        {
+          "id": 16,
+          "name": "Live Oil Masala Khaman",
+          "price": "₹90.00",
+          "description": "A savory and aromatic delight, Live Oil Masala Khaman is a delectable vegetarian dish that will tantalize your taste buds."
+        },
+        {
+          "id": 17,
+          "name": "Oil Locho",
+          "price": "₹100.00",
+          "description": "A mouthwatering and flavorful vegetarian dish that is sure to satisfy your cravings."
+        },
+        {
+          "id": 18,
+          "name": "Cheese Butter Locho",
+          "price": "₹100.00",
+          "description": "Indulge in a cheesy symphony of flavors with this delectable and rich dish that combines the creaminess of butter with the irresistible essence of cheese."
+        },
+        {
+          "id": 19,
+          "name": "Dal Kanda Samosa (Fried)",
+          "price": "₹100.00",
+          "description": "A crispy and flavorful samosa filled with a delectable mixture of dal and kanda, perfect for a delightful vegetarian snacking experience."
+        },
+        {
+          "id": 20,
+          "name": "Chinese Samosa (Fried)",
+          "price": "₹70.00",
+          "description": "Delight in a flavorful, golden-brown pastry filled with an irresistible blend of Chinese-inspired vegetables."
+        },
+        {
+          "id": 21,
+          "name": "Chinese Samosa (Kacha)",
+          "price": "₹100.00",
+          "description": "A delightful vegetarian twist on the classic samosa, with a Chinese touch, guaranteed to leave your taste buds wanting more."
+        },
+        {
+          "id": 22,
+          "name": "Dry Fruit Samosa (Kacha)",
+          "price": "₹70.00",
+          "description": "A delightful twist on the classic samosa, bursting with the rich and delightful flavors of dry fruits."
+        },
+        {
+          "id": 23,
+          "name": "Dry Fruit Samosa (Fried)",
+          "price": "₹70.00",
+          "description": "Crispy and savory, this delightful fried samosa is filled with a medley of dry fruits, making it a tantalizing and irresistible vegetarian treat."
+        },
+        {
+          "id": 24,
+          "name": "Aloo Samosa Big",
+          "price": "₹40.00",
+          "description": "2 pcs"
+        },
+        {
+          "id": 25,
+          "name": "Papdi",
+          "price": "₹140.00",
+          "description": "A delectable veg delight that's perfect for breakfast or snacks, offering a burst of irresistible flavors and crispy textures."
+        },
+        {
+          "id": 26,
+          "name": "Sev",
+          "price": "₹50.00",
+          "description": "A crispy and flavorful vegetarian delight that is sure to tantalize your taste buds."
+        },
+        {
+          "id": 27,
+          "name": "Combo 5",
+          "price": "₹440.00",
+          "description": "250 gm dal kandha samosa + 250 gm petish + 250 gm patudi + 250 gm Khamni (sweet) + 50 gm sev"
+        },
+        {
+          "id": 28,
+          "name": "Combo 1",
+          "price": "₹400.00",
+          "description": "250 gm vagharela khaman + 250 gm oil locho + 250 gm oil masala idada + 250 gm patudi + 100 gm sev + 2 butter milk"
+        },
+        {
+          "id": 29,
+          "name": "Combo 10",
+          "price": "₹420.00",
+          "description": "250 gm nylon khaman + 250 gm vagharela khaman + 100 gm sev + 250 gm vagharela patra + 250 gm oil masala idada + 250 gm patudi"
+        },
+        {
+          "id": 30,
+          "name": "Combo 6",
+          "price": "₹350.00",
+          "description": "250 gm chinese samosa + 250 gm oil masala idada + 250 gm vagharela khaman + 50 gm sev + 2 jeera masala soda"
+        },
+        {
+          "id": 31,
+          "name": "Combo 2",
+          "price": "₹470.00",
+          "description": "250 gm cheese butter locho + khamni (sweet) + 1 plate rasawala khaman + 100 gm sev + 2 jeera masala oda"
+        },
+        {
+          "id": 32,
+          "name": "Combo 3",
+          "price": "₹340.00",
+          "description": "250 gm vagharela khaman + 250 gm vagharela patra + 250 gm patudi + 250 gm oil masala idada + 50 gm sev + 2 jeera masala soda"
+        }
+      ]
+    
+  },
+  {
+      "id":6,
+      "name": "Maakhan Bhog",
+      "cuisine": "Desserts",
+      "time": "25-30 MINS",
+      "price_for_two": "₹300",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Paneer Chilly Dry",
+          "price": "₹286.00",
+          "description": "Paneer Chilly Dry"
+        },
+        {
+          "id": 2,
+          "name": "Manchurian Dry",
+          "price": "₹172.00",
+          "description": "Manchurian Dry"
+        },
+        {
+          "id": 3,
+          "name": "Hakka Noodles",
+          "price": "₹172.00",
+          "description": "Hakka Noodles"
+        },
+        {
+          "id": 4,
+          "name": "Schezwan Noodles",
+          "price": "₹200.00",
+          "description": "Schezwan Noodles"
+        },
+        {
+          "id": 5,
+          "name": "Manchurian Gravy",
+          "price": "₹172.00",
+          "description": "Manchurian Gravy"
+        },
+        {
+          "id": 6,
+          "name": "Chinese Bhel",
+          "price": "₹215.00",
+          "description": "Chinese Bhel"
+        },
+        {
+          "id": 7,
+          "name": "Schezwan Fried Rice",
+          "price": "₹200.00",
+          "description": "Schezwan Fried Rice"
+        },
+        {
+          "id": 8,
+          "name": "Fried Rice",
+          "price": "₹172.00",
+          "description": "Fried Rice"
+        },
+        {
+          "id": 9,
+          "name": "Manchow Soup",
+          "price": "₹143.00",
+          "description": "Manchow Soup"
+        },
+        {
+          "id": 10,
+          "name": "Paneer Chilly Gravy",
+          "price": "₹286.00",
+          "description": "Paneer Chilly Gravy"
+        },
+        {
+          "id": 11,
+          "name": "Dal Makhani Rice Bowl",
+          "price": "₹172.00",
+          "description": "Serves 1 | Dal Makhani with rice is a classic and comforting North Indian dish that consists of creamy Dal Makhani served with steamed rice. Item includes a delicious combo of rice with a good portion of Dal Makhani."
+        },
+        {
+          "id": 12,
+          "name": "Chole Rice Bowl",
+          "price": "₹143.00",
+          "description": "Serves 1 | Chole with rice is a classic and comforting North Indian dish that consists of spicy chickpea curry (chole) served with steamed rice. Item includes a delicious combo of rice with a good portion of Chole."
+        },
+        {
+          "id": 13,
+          "name": "Paneer Kathi Roll",
+          "price": "₹172.00",
+          "description": "Paneer Kathi Roll"
+        },
+        {
+          "id": 14,
+          "name": "Veg Kathi Roll",
+          "price": "₹143.00",
+          "description": "Veg Kathi Roll"
+        },
+        {
+          "id": 15,
+          "name": "Veg Cheese Grilled Sandwich",
+          "price": "₹172.00",
+          "description": "A grilled sandwich with chips is a classic and satisfying meal that combines the comfort of a warm, toasted sandwich with the crunchy goodness of potato chips."
+        },
+        {
+          "id": 16,
+          "name": "Veg Sandwich",
+          "price": "₹86.00",
+          "description": "A delicious and wholesome sandwich filled with fresh vegetables, often accompanied by spreads like tomato ketchup or chutney. Perfect for a quick, healthy bite."
+        },
+        {
+          "id": 17,
+          "name": "Veg Cheese Sandwich",
+          "price": "₹129.00",
+          "description": "A delicious and wholesome sandwich filled with cheese and fresh vegetables, often accompanied by spreads like tomato ketchup or chutney. Perfect for a quick, healthy bite."
+        },
+        {
+          "id": 18,
+          "name": "Veg Cheese Burger",
+          "price": "₹143.00",
+          "description": "Indian style burger stuffed with cheese and crispy potatoes and vegetable patties."
+        },
+        {
+          "id": 19,
+          "name": "Veg Burger",
+          "price": "₹100.00",
+          "description": "Indian style burger stuffed with crispy potatoes and vegetable patties."
+        },
+        {
+          "id": 20,
+          "name": "French Fries",
+          "price": "₹115.00",
+          "description": "French Fries"
+        },
+        {
+          "id": 21,
+          "name": "Coleslaw Sandwich",
+          "price": "₹115.00",
+          "description": "Coleslaw Sandwich"
+        }
+      ]
+    
+  },
+  {
+      "id":7,
+      "name": "Jani Farsan House",
+      "cuisine": "Gujarati, Snacks",
+      "time": "30-35 MINS",
+      "price_for_two": "₹300",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Wagharela Khaman",
+          "price": "₹0.00",
+          "description": "Serves 1, 250 gm | Medium Spicy | Served Dry"
+        },
+        {
+          "id": 2,
+          "name": "Pattice",
+          "price": "₹0.00",
+          "description": "Serves 2, 4 pcs | Medium Spicy | Surti Pettis is a Gujarati Stuffed Pattice Snack or Farsan popular in Gujarat especially in Surat where it gets its name from. It is a deep fried pattice made from boiled and mashed potatoes, coconut and spices."
+        },
+        {
+          "id": 3,
+          "name": "Cheese Samosa (5 Pieces)",
+          "price": "₹95.00",
+          "description": "Serves 1, 5 pcs | Medium Spicy"
+        },
+        {
+          "id": 4,
+          "name": "Butter Locho(125gms)",
+          "price": "₹85.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 5,
+          "name": "Cheese Butter Locho(125gms)",
+          "price": "₹110.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 6,
+          "name": "Patra",
+          "price": "₹0.00",
+          "description": "Serves 1, 4 pcs | Medium Spicy | Served Dry"
+        },
+        {
+          "id": 7,
+          "name": "Dal Samosa",
+          "price": "₹70.00",
+          "description": "Serves 2, 4 pcs | Medium Spicy | Triangular fried item with Dal and masala."
+        },
+        {
+          "id": 8,
+          "name": "Surati Bhusu (250gm)",
+          "price": "₹140.00",
+          "description": "Taste of Mix Snacks Like Sev, Papdi, Peanuts, Medium Spicy Sev which is suitable for your daily snacks with hot beverages. Cannot live without this namkeen."
+        },
+        {
+          "id": 9,
+          "name": "Mix Bhajiya(kg)",
+          "price": "₹570.00",
+          "description": ""
+        },
+        {
+          "id": 10,
+          "name": "Sev Khamnii(125gms)",
+          "price": "₹55.00",
+          "description": ""
+        },
+        {
+          "id": 11,
+          "name": "Papdi (250gm)",
+          "price": "₹140.00",
+          "description": "Papdi Gathiya is one of the most popular and all time favorite savory and crunchy Gujarati snacks."
+        },
+        {
+          "id": 12,
+          "name": "Cheese Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 13,
+          "name": "Kachori",
+          "price": "₹0.00",
+          "description": ""
+        },
+        {
+          "id": 14,
+          "name": "Surati Bhusu (500gm)",
+          "price": "₹240.00",
+          "description": "Puffed rice, besan, ground nut, dal, turmeric, red chilli powder, iodized salt, asafoetida, ajwain, sugar, cotton seed oil."
+        },
+        {
+          "id": 15,
+          "name": "Oil Locho(125gms)",
+          "price": "₹55.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 16,
+          "name": "Butter Masala Idla (150 Gms)",
+          "price": "₹50.00",
+          "description": "Idla can be termed as a diet food and very healthy as it is steamed. It is basically rice and urad dal soaked and ground to a fine batter then fermented overnight and steamed in idla molds."
+        },
+        {
+          "id": 17,
+          "name": "Sev (250gms)",
+          "price": "₹140.00",
+          "description": "EDIBLE OIL, BESAN, IODIZED SALT"
+        },
+        {
+          "id": 18,
+          "name": "Naylon Fafda",
+          "price": "₹220.00",
+          "description": ""
+        },
+        {
+          "id": 19,
+          "name": "Tikhi Papdi(250gms)",
+          "price": "₹140.00",
+          "description": "Salty, crunchy & wavy strips famous traditional Gujarati snack."
+        },
+        {
+          "id": 20,
+          "name": "Garlic Cheese Locho(125gms)",
+          "price": "₹125.00",
+          "description": "Surti locho garnish with fresh garlic and cheese on top."
+        },
+        {
+          "id": 21,
+          "name": "Nachos Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 22,
+          "name": "Garlic Butter Locho(125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 23,
+          "name": "Surti Garlic Butter Locho(125gms)",
+          "price": "₹125.00",
+          "description": ""
+        },
+        {
+          "id": 24,
+          "name": "Surti Garlic Cheese Locho(125gms)",
+          "price": "₹150.00",
+          "description": ""
+        },
+        {
+          "id": 25,
+          "name": "Surti Garlic Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 26,
+          "name": "Schezwan Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 27,
+          "name": "Limbu Mari Cheese Locho(125gms)",
+          "price": "₹125.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 28,
+          "name": "Garlic Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 29,
+          "name": "Schezwan Cheese Locho(125gms)",
+          "price": "₹125.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 30,
+          "name": "Limbu Mari Butter Locho(125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 31,
+          "name": "Schezwan Butter Locho(125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 32,
+          "name": "Garlic Oil Locho(125gms)",
+          "price": "₹85.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 33,
+          "name": "Mayo Roll Locho(100gms)",
+          "price": "₹150.00",
+          "description": ""
+        },
+        {
+          "id": 34,
+          "name": "Surti Garlic Oil Locho(125gms)",
+          "price": "₹110.00",
+          "description": ""
+        },
+        {
+          "id": 35,
+          "name": "Peri Peri Butter Locho(125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati Snack /Side Dish. It is made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 36,
+          "name": "Peri Peri Cheese Locho(125gms)",
+          "price": "₹125.00",
+          "description": ""
+        },
+        {
+          "id": 37,
+          "name": "Peri Peri Roll Locho(100gms)",
+          "price": "₹165.00",
+          "description": ""
+        },
+        {
+          "id": 38,
+          "name": "Patudi(125gms)",
+          "price": "₹60.00",
+          "description": "Khandvi is usually prepared from a batter of gram flour and yogurt seasoned with ginger paste, salt, water, turmeric, and sometimes green chili peppers."
+        },
+        {
+          "id": 39,
+          "name": "Idla",
+          "price": "₹0.00",
+          "description": ""
+        },
+        {
+          "id": 40,
+          "name": "Khamnii (125gms)",
+          "price": "₹45.00",
+          "description": "1 pc, 250 gm | Medium Spicy | Served Dry"
+        }
+      ]
+    
+  },
+  {
+    "id":8,
+      "name": "Jani Farsan House",
+      "cuisine": "Gujarati, Snacks",
+      "time": "25-30 MINS",
+      "cost_for_two": "₹300",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "Butter Locho (125gms)",
+          "price": "₹85.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 2,
+          "name": "Cheese Butter Locho (125gms)",
+          "price": "₹110.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 3,
+          "name": "Oil Locho (125gms)",
+          "price": "₹55.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 4,
+          "name": "Garlic Cheese Locho (125gms)",
+          "price": "₹125.00",
+          "description": "Surti locho garnished with fresh garlic and cheese on top."
+        },
+        {
+          "id": 5,
+          "name": "Cheese Roll Locho (100gms)",
+          "price": "₹165.00",
+          "description": "Cheese Roll Locho."
+        },
+        {
+          "id": 6,
+          "name": "Nachos Roll Locho (100gms)",
+          "price": "₹165.00",
+          "description": "Nachos Roll Locho."
+        },
+        {
+          "id": 7,
+          "name": "Garlic Butter Locho (125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 8,
+          "name": "Surti Garlic Butter Locho (125gms)",
+          "price": "₹125.00",
+          "description": "Surti Garlic Butter Locho."
+        },
+        {
+          "id": 9,
+          "name": "Surti Garlic Cheese Locho (125gms)",
+          "price": "₹150.00",
+          "description": "Surti Garlic Cheese Locho."
+        },
+        {
+          "id": 10,
+          "name": "Surti Garlic Roll Locho (100gms)",
+          "price": "₹165.00",
+          "description": "Surti Garlic Roll Locho."
+        },
+        {
+          "id": 11,
+          "name": "Schezwan Roll Locho (100gms)",
+          "price": "₹165.00",
+          "description": "Schezwan Roll Locho."
+        },
+        {
+          "id": 12,
+          "name": "Limbu Mari Cheese Locho (125gms)",
+          "price": "₹125.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 13,
+          "name": "Garlic Roll Locho (100gms)",
+          "price": "₹165.00",
+          "description": "Garlic Roll Locho."
+        },
+        {
+          "id": 14,
+          "name": "Schezwan Cheese Locho (125gms)",
+          "price": "₹125.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 15,
+          "name": "Limbu Mari Butter Locho (125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        },
+        {
+          "id": 16,
+          "name": "Schezwan Butter Locho (125gms)",
+          "price": "₹95.00",
+          "description": "Locho is a steamed Gujarati snack/side dish made from the batter of Bengal gram (chana dal)."
+        }
+      ]
+    
+  },
+  {
+      "id":9,
+      "name": "Surti Khaman House",
+      "cuisine": "Gujarati, Snacks",
+      "time": "25-30 MINS",
+      "price_for_two": "₹300",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Plain Khaman",
+          "price": "₹64.00",
+          "description": "A fluffy and savory treat perfect for any meal."
+        },
+        {
+          "id": 2,
+          "name": "Vagharela Khaman",
+          "price": "₹97.00",
+          "description": "A flavorful and irresistible vegetarian delicacy with a perfect balance of textures and flavors."
+        },
+        {
+          "id": 3,
+          "name": "Tam Tam Khaman",
+          "price": "₹110.00",
+          "description": "A fluffy and savory Gujarati delicacy loaded with flavor."
+        },
+        {
+          "id": 4,
+          "name": "Plain Locho",
+          "price": "₹75.00",
+          "description": "A mouthwatering and delectable vegetarian dish that showcases the true essence of traditional Locho cuisine."
+        },
+        {
+          "id": 5,
+          "name": "Oil Locho",
+          "price": "₹110.00",
+          "description": "Savor every bite of this savory vegetarian delight."
+        },
+        {
+          "id": 6,
+          "name": "Butter Locho",
+          "price": "₹170.00",
+          "description": "A mouthwatering delight from Gayatri Khaman Special."
+        },
+        {
+          "id": 7,
+          "name": "Cheese Butter Locho",
+          "price": "₹240.00",
+          "description": "Indulge in the rich and creamy flavors of this mouth-watering cheese butter locho."
+        },
+        {
+          "id": 8,
+          "name": "Plain Idada",
+          "price": "₹64.00",
+          "description": "A simple yet satisfying vegetarian delight."
+        },
+        {
+          "id": 9,
+          "name": "Vagharela Idada",
+          "price": "₹97.00",
+          "description": "A delectable vegetarian dish from the Idada category."
+        },
+        {
+          "id": 10,
+          "name": "Plain Khandvi",
+          "price": "₹75.00",
+          "description": "Delicate, melt-in-your-mouth rolls bursting with flavor and texture."
+        },
+        {
+          "id": 11,
+          "name": "Vaghareli Khandvi",
+          "price": "₹97.00",
+          "description": "A delectable and savory Gujarati-style snack with a delightful balance of flavors and textures."
+        },
+        {
+          "id": 12,
+          "name": "Bafela Patra",
+          "price": "₹85.00",
+          "description": "Deliciously flavorful and mouthwatering, this veggie delight will leave you craving for more."
+        },
+        {
+          "id": 13,
+          "name": "Vagharela Patra",
+          "price": "₹110.00",
+          "description": "A savory and flavorful vegetarian dish served hot."
+        },
+        {
+          "id": 14,
+          "name": "Fry Patra",
+          "price": "₹135.00",
+          "description": "Crispy and savory fried veg farsan that will tantalize your taste buds."
+        },
+        {
+          "id": 15,
+          "name": "Dal Vada",
+          "price": "₹135.00",
+          "description": "Crispy and flavorful fritters made with a lentil-based batter, perfect as a snack or appetizer."
+        }
+      ]
+    
+    },
+  {
+      "id":10,
+      "name": "Jani Locho & Khaman House",
+      "cuisine": "Gujarati, Snacks",
+      "time": "25-30 MINS",
+      "price_for_two": "₹150",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Butter Locho",
+          "price": "₹78.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 2,
+          "name": "Oil Locho",
+          "price": "₹65.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 3,
+          "name": "Sada Khaman",
+          "price": "₹91.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 4,
+          "name": "Cheese Locho",
+          "price": "₹110.50",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 5,
+          "name": "Lasan Cheese Locho",
+          "price": "₹117.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 6,
+          "name": "Lasan Butter Locho [Non Jain]",
+          "price": "₹78.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 7,
+          "name": "Roll Italian Locho [Non Jain]",
+          "price": "₹156.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 8,
+          "name": "Roll Cheese Chilly Locho [Non Jain]",
+          "price": "₹156.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 9,
+          "name": "Roll Locho",
+          "price": "₹156.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        },
+        {
+          "id": 10,
+          "name": "Butter Locho + Sev + Sada Khaman [500 Gram] + Idra [150 Gram]",
+          "price": "₹286.00",
+          "description": ""
+        },
+        {
+          "id": 11,
+          "name": "Butter Locho + Sev + Sada Khaman [500 Gram]",
+          "price": "₹188.50",
+          "description": ""
+        },
+        {
+          "id": 12,
+          "name": "Roll Lasun Locho",
+          "price": "₹156.00",
+          "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||"
+        }
+      ]
+    
+  },
+  {
+      "id":11,
+      "name": "Radhe Dhokla",
+      "cuisine": "Gujarati, Biryani",
+      "time": "15-20 MINS",
+      "cost_for_two": "₹300",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "Vagharela Khaman",
+          "price": "₹95.00",
+          "description": "250 gm | Khaman tempered with mustard seeds, cumin seeds, curry leaves, and green chilies, often garnished with fresh coriander leaves and served with green chutney and green chilies."
+        },
+        {
+          "id": 2,
+          "name": "Nylon Idada",
+          "price": "₹85.00",
+          "description": "Steamed, extra soft and spongy texture, batter is sprinkled with a pinch of black pepper powder; served with green chutney and green chilies."
+        },
+        {
+          "id": 3,
+          "name": "Masala Idada",
+          "price": "₹95.00",
+          "description": "250 gm | Variation of idada with additional spices and seasoning, garnished with fresh coriander; served with green chutney and green chilies."
+        },
+        {
+          "id": 4,
+          "name": "Vagharela Idada",
+          "price": "₹95.00",
+          "description": "Serves 0 | Idada tempered with cumin seeds and sesame seeds, garnished with fresh coriander; served with green chutney and green chilies."
+        },
+        {
+          "id": 5,
+          "name": "Butter Masala Idada",
+          "price": "₹105.00",
+          "description": "Serves 1."
+        },
+        {
+          "id": 6,
+          "name": "Cheese Masala Idada",
+          "price": "₹125.00",
+          "description": "Serves 1."
+        },
+        {
+          "id": 7,
+          "name": "Patudi Khandvi",
+          "price": "₹100.00",
+          "description": "250 gm | A delicate roll with unique texture and savory taste, typically seasoned with mustard seeds, cumin seeds, sesame seeds, curry leaves, and grated coconut, garnished with fresh coriander; served with green chutney and green chilies."
+        },
+        {
+          "id": 8,
+          "name": "Garlic Dhokla",
+          "price": "₹105.00",
+          "description": "Serves 0 | Our special signature dish that is a traditional Indian soft and spongy delicacy made from fermented batter typically steamed with sweet corn and bottle gourd, sprinkled with our special seasoning."
+        },
+        {
+          "id": 9,
+          "name": "Italian Dhokla",
+          "price": "₹135.00",
+          "description": "250 gm | A creative cheese blend that combines corn dhokla with Italian herbs and spices; served with green chutney and green chilies."
+        },
+        {
+          "id": 10,
+          "name": "Jain Dhokla",
+          "price": "₹105.00",
+          "description": "250 gm | A delectable vegetarian dhokla perfect for those following Jainism."
+        },
+        {
+          "id": 11,
+          "name": "Butter Dhokla",
+          "price": "₹120.00",
+          "description": "250 gm | A spongy dish made with ground, fermented batter of rice and lentils like chana dal or urad dal and cooked in butter."
+        },
+        {
+          "id": 12,
+          "name": "Cheese Butter Dhokla",
+          "price": "₹135.00",
+          "description": "250 gm | A mouth-watering and creamy variation of the classic dhokla."
+        }
+      ]
+    
+  },
+  {
+      "id":12,
+      "name": "Theobroma",
+      "cuisine": "Bakery, Desserts",
+      "time": "20-25 MINS",
+      "cost_for_two": "₹400",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "Eggless Fresh Cream Pineapple Cake [1/2kg]",
+          "price": "₹650.00",
+          "description": "Fresh cream cake with homemade pineapple compote."
+        },
+        {
+          "id": 2,
+          "name": "Eggless Rich Chocolate Pastry [1 Piece]",
+          "price": "₹125.00",
+          "description": "Serves 1 | Chocolate sponge layered with rich and smooth chocolate cream, and decorated with dark chocolate."
+        },
+        {
+          "id": 3,
+          "name": "Eggless Butterscotch & Milk Chocolate Pastry [1 Piece]",
+          "price": "₹120.00",
+          "description": "Serves 1 | Moist butterscotch pastry made with vanilla cream, homemade butterscotch sauce, crunchy butterscotch, and glazed with milk chocolate glaze."
+        },
+        {
+          "id": 4,
+          "name": "Eggless Dutch Truffle Pastry [1 Piece]",
+          "price": "₹130.00",
+          "description": "Dark chocolate ganache with chocolate sponge."
+        },
+        {
+          "id": 5,
+          "name": "Chocoholic Pastry [1 Piece]",
+          "price": "₹150.00",
+          "description": "Three layers of chocolate mousse: white, milk, and dark chocolate mousse."
+        },
+        {
+          "id": 6,
+          "name": "Eggless Outrageous Chocolate Brownie [1 Piece]",
+          "price": "₹120.00",
+          "description": "Outrageous eggless brownie is loaded with chocolate and made with flax seeds and ground almonds."
+        },
+        {
+          "id": 7,
+          "name": "Eggless Walnut Brownie [1 Piece]",
+          "price": "₹110.00",
+          "description": "Eggless chocolate brownie topped with toasted walnuts."
+        },
+        {
+          "id": 8,
+          "name": "Eggless Millionaire Brownie [1 Piece]",
+          "price": "₹120.00",
+          "description": "Soft buttery caramel sandwiched between our chocolate chip brownie and layer of dark chocolate truffle."
+        },
+        {
+          "id": 9,
+          "name": "Eggless Choco Chip Brownie [1 Piece]",
+          "price": "₹110.00",
+          "description": "Eggless chocolate brownie with chocolate chips."
+        },
+        {
+          "id": 10,
+          "name": "Eggless Cookie Brownie [1 Piece]",
+          "price": "₹110.00",
+          "description": "Eggless chocolate chip brownie base, topped with a layer of chocolate chip cookie dough. Two much fun!"
+        },
+        {
+          "id": 11,
+          "name": "Eggless Nutella Brownie [1 Piece]",
+          "price": "₹120.00",
+          "description": "Serves 1 | Eggless chocolate brownie topped with homemade hazelnut praline, hazelnut chunks & Nutella."
+        },
+        {
+          "id": 12,
+          "name": "Vanilla & Blueberry Cupcake [1 Piece]",
+          "price": "₹120.00",
+          "description": "Moist & fluffy vanilla cupcake filled with blueberry jam & topped with blueberry buttercream frosting."
+        },
+        {
+          "id": 13,
+          "name": "Red Velvet Cupcake [1 Piece]",
+          "price": "₹120.00",
+          "description": "Moist red velvet cupcake with lemon cream cheese frosting."
+        },
+        {
+          "id": 14,
+          "name": "Chocolate Cupcake [1 Piece]",
+          "price": "₹120.00",
+          "description": "Chocolate cupcake with chocolate buttercream frosting."
+        }
+      ]
+    
+  },
+  {
+      "id":13,
+      "name": "Ovenfresh",
+      "cuisine": "Bakery, Desserts",
+      "time": "35-40 MINS",
+      "price_for_two": "₹364",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Happy Anniversary Mom & Dad Photo Cake",
+          "price": "Varies",
+          "description": "Celebrations always recreate moments especially celebrating parent's anniversary. Try our special anniversary photo cake and celebrate the moments. You can choose flavor which you like most. (6 Servings, 262 calories each)"
+        },
+        {
+          "id": 2,
+          "name": "It's a Boy Photo Cake",
+          "price": "Varies",
+          "description": "Celebrations always recreate moments. Try our special its a boy photo cake and celebrate the moments. You can choose flavor which you like most."
+        },
+        {
+          "id": 3,
+          "name": "Assorted Cupcakes - 6 Pc",
+          "price": "₹369.00",
+          "description": "Cupcakes are always best to complete your day, try our delicious set of red velvet, chocolate and vanilla cupcakes and make your day special. (182 Calories each)"
+        },
+        {
+          "id": 4,
+          "name": "Black Forest Pastry",
+          "price": "₹99.00",
+          "description": "Dive into the richness of our signature Black Forest Pastry, crafted with velvety chocolate sponge layers generously infused with cherries and adorned with chocolate shavings (1 Serving, 313 calories, 4gms Protein, 50gms Carbs)."
+        },
+        {
+          "id": 5,
+          "name": "Butterscotch Pastry",
+          "price": "₹89.00",
+          "description": "Embark on a journey of sweet indulgence with our Butterscotch Pastry, crafted with delicate layers of vanilla sponge cake, each bite is infused with the rich and buttery goodness of butterscotch crush. (1 Serving, 509 calories, 5gms Protein, 98 gms Carbs)."
+        },
+        {
+          "id": 6,
+          "name": "Red Velvet Pastry",
+          "price": "₹99.00",
+          "description": "Treat yourself to a taste of luxury with our Red Velvet Pastry, a delightful fusion of velvety red velvet sponge and luscious whipped cream.(1 Serving, 513 calories, 4gms Protein, 72gms Carbs)."
+        },
+        {
+          "id": 7,
+          "name": "Vanilla Pastry",
+          "price": "₹89.00",
+          "description": "Indulge with our classic vanilla pastry, delicate vanilla sponge cake infused with the essence of vanilla syrup promises a moment of pure bliss with every bite. (1 Serving, 314 calories, 5gms Protein, 53gms Carbs)."
+        },
+        {
+          "id": 8,
+          "name": "Pineapple Pastry",
+          "price": "₹89.00",
+          "description": "Indulge in a divine treat with our heavenly Vanilla Sponge Pineapple Pastry. Each bite is a symphony of flavors, blending the lightness of vanilla sponge with the tropical burst of pineapple crush.(1 Serving, 314 calories, 5gms Protein, 53gms Carbs)."
+        },
+        {
+          "id": 9,
+          "name": "Mango Fruit Pastry",
+          "price": "₹129.00",
+          "description": "Indulge in the luscious layers of mango pastry, crafted with moist vanilla sponge infused with mango fruit filling, mango crush and garnished with pista."
+        },
+        {
+          "id": 10,
+          "name": "Mango Overload Pastry",
+          "price": "₹149.00",
+          "description": "Heavenly vanilla sponge layered generously with velvety mango pulp and mango crush; every slice is a burst of tropical mango sweetness."
+        },
+        {
+          "id": 11,
+          "name": "Chocolate Truffle Pastry",
+          "price": "₹99.00",
+          "description": "Delicious Pastry featuring a combination of moist chocolate sponge and velvety truffle ganache creates a luxurious indulgence. (1 Serving, 314 calories, 5gms Protein, 53gms Carbs)."
+        }
+      ]
+    
+  },
+  {
+      "id":14,
+      "name": "Tea Post",
+      "cuisine": "Fast Food, Beverages",
+      "time": "25-30 MINS",
+      "price_for_two": "₹300",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Sandwichill Combo",
+          "price": "Varies",
+          "description": "Experience a delightful duo of your choice of savory sandwich and your choice of refreshing cold coffee. It is the perfect blend of taste and refreshment!",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 2,
+          "name": "Chai Maska Bun Combo",
+          "price": "Varies",
+          "description": "Try our delicious Maska Bun - laced with Dollops of Butter with your choice of tea - to make one of the most amazing Desi tea time combos!",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 3,
+          "name": "Chai Samosa Combo",
+          "price": "Varies",
+          "description": "Awesome aromatic chai options for you to choose from paired with crispy samosa pockets (2 pcs) - make the perfect combo for quick bites.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 4,
+          "name": "Indian Masala Chai (2 Cups)",
+          "price": "Varies",
+          "description": "Our Indian Masala Tea hits the right spot with its sweet & aromatic chai spices which transports you back to simpler times. There is no better feeling than sipping it with your favourite snacks.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 5,
+          "name": "Pudina Elaichi Tea (2 Cups)",
+          "price": "Varies",
+          "description": "Featuring Elaichi. A sweetened pudina chai flavored with notes of elaichi in luscious milk and chai spices. A delicious way to start the day.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 6,
+          "name": "Ginger & Pudina Tea (2 Cups)",
+          "price": "Varies",
+          "description": "Sweet and Warm, the Ginger Pudina is the definition of cozy, this season! It is a blend of aromatic tea leaves, garnished ginger and cool mint leaves added to sugar and milk made with extra love just for you.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 7,
+          "name": "Hot Coffee Vanilla (2 Cups)",
+          "price": "Varies",
+          "description": "Vanilla and coffee come together to create a cup of coffee that instantly puts you in good mood. It is added with hot milk and sugar to make it even more interesting.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 8,
+          "name": "Thepla (3 Pcs)",
+          "price": "₹95.00",
+          "description": "The most popular traditional Gujarati dish, masaledar Thepla Rotis made with added spices and herbs, nicely cooked on a Tawa and served hot with a portion of tangy Achar (pickle).",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 9,
+          "name": "Tandoori Paneer Sandwich",
+          "price": "₹195.00",
+          "description": "Slices of bread stuffed with yummy Tandoori Paneer filler, layered with butter and grilled till it's crispy. The filler contains fresh & yummy paneer, tandoori smoky mayo, and chopped vegetables.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 10,
+          "name": "Mexican Puff",
+          "price": "₹100.00",
+          "description": "Delicious Indian bakery-style crispy snack prepared with wheat flour and Mexican ingredients inside including chopped vegetables onion, capsicum, tomato and Mexican Mayo spread. Always acknowledged as the savory Mexican settlement.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 11,
+          "name": "Hot Coffee (2 Cups)",
+          "price": "Varies",
+          "description": "The classic cup of hot coffee created with creamy milk and authentic Columbian coffee. It is one of the most popular refreshments that is served hot to revitalize your senses.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 12,
+          "name": "Sabudana Vada (4 Pcs)",
+          "price": "₹180.00",
+          "description": "Boiled Sabudana are mixed with Farali flour and selected masalas which are suitable for fasts. And fasting day or not, freshly fried Sabudana Vada are hot and happening on any given day.",
+          "serving_size": "Serves 1"
+        }
+      ]
+    
+  },
+  {
+    "restaurant": {
+      "name": "Cheesecakes By CakeZone",
+      "cuisine": "Bakery, Desserts",
+      "time": "20-25 MINS",
+      "cost_for_two": "₹200",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "French Blueberry Cheesecake Jar",
+          "price": "₹259.00",
+          "description": "[Eggless]. 150 gm. A Blueberry Cheesecake Jar offers a delightful fusion of creamy cheesecake and the bright, fruity notes of blueberries filling. Each layer contributes to a harmonious blend of textures and flavors. (689 Calories, Protein-7g, Carbs-56g)"
+        },
+        {
+          "id": 2,
+          "name": "Mango Cheesecake Jar",
+          "price": "₹239.00",
+          "description": "[Eggless]. Mini Jar (150 gm). Smooth, rich, fresh, and with a dense texture of cheesecake and mango appropriately constructed in a jar. Feeling low today? Gift yourself this amazing cake dessert which comes in a premium glass jar. (684 Calories, Protein-7g, Carbs-55g)"
+        },
+        {
+          "id": 3,
+          "name": "Hazelnut Truffle Cake",
+          "price": "N/A",
+          "description": "Hazelnut cake offers a delectable combination of nuttiness, sweetness, moist, and tender texture, making it a popular dessert choice for those who enjoy the unique taste of hazelnuts. Savor the sweet moments with our delectable cake."
+        },
+        {
+          "id": 4,
+          "name": "Red Velvet Cheesecake (500 Gms)",
+          "price": "₹959.00",
+          "description": "500 gms. Bite into our Smooth, rich, fresh, original sourness of cheese and with a dense texture of cheesecake and Red Velvet. We stand by our promise, of sweeter celebrations with CakeZone. (4 Serving, 702 calories each, Protein-7g each, Carbs-57g each)"
+        },
+        {
+          "id": 5,
+          "name": "Oreo Truffle Cake",
+          "price": "N/A",
+          "description": "This Cake is a delightful and indulgent dessert that combines the beloved flavor of Oreo cookies with a creamy, luscious texture. It's a treat that's sure to please Oreo enthusiasts and dessert lovers alike."
+        },
+        {
+          "id": 6,
+          "name": "Choco Lava Cake",
+          "price": "₹89.00",
+          "description": "[Eggless]. Life is too short to say no to cake and Chocolate as you know is irresistible so indulge in our perfect creations for your sweet celebrations. (1 Serving, 308 Calories, Protein-7g, Carbs-46g)"
+        },
+        {
+          "id": 7,
+          "name": "Choco Chip Brownie - 1Pc",
+          "price": "₹129.00",
+          "description": "Brownies are the most loved and addictive dessert which are moist, soft in texture and gives you unique taste. Enjoy every bite and mark your moments."
+        },
+        {
+          "id": 8,
+          "name": "Red Velvet Brownie - 1Pc",
+          "price": "₹149.00",
+          "description": "Brownies are the most loved and addictive dessert which are moist, soft in texture and gives you unique taste. Enjoy every bite and mark your moments."
+        }
+      ]
+    }
+  },
+  {
+      "id":15,
+      "name": "Cheesecakes By CakeZone",
+      "cuisine": "Bakery, Desserts",
+      "time": "20-25 MINS",
+      "cost_for_two": "₹200",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "French Blueberry Cheesecake Jar",
+          "price": "₹259.00",
+          "description": "[Eggless]. 150 gm. A Blueberry Cheesecake Jar offers a delightful fusion of creamy cheesecake and the bright, fruity notes of blueberries filling. Each layer contributes to a harmonious blend of textures and flavors. (689 Calories, Protein-7g, Carbs-56g)"
+        },
+        {
+          "id": 2,
+          "name": "Mango Cheesecake Jar",
+          "price": "₹239.00",
+          "description": "[Eggless]. Mini Jar (150 gm). Smooth, rich, fresh, and with a dense texture of cheesecake and mango appropriately constructed in a jar. Feeling low today? Gift yourself this amazing cake dessert which comes in a premium glass jar. (684 Calories, Protein-7g, Carbs-55g)"
+        },
+        {
+          "id": 3,
+          "name": "Hazelnut Truffle Cake",
+          "price": "N/A",
+          "description": "Hazelnut cake offers a delectable combination of nuttiness, sweetness, moist, and tender texture, making it a popular dessert choice for those who enjoy the unique taste of hazelnuts. Savor the sweet moments with our delectable cake."
+        },
+        {
+          "id": 4,
+          "name": "Red Velvet Cheesecake (500 Gms)",
+          "price": "₹959.00",
+          "description": "500 gms. Bite into our Smooth, rich, fresh, original sourness of cheese and with a dense texture of cheesecake and Red Velvet. We stand by our promise, of sweeter celebrations with CakeZone. (4 Serving, 702 calories each, Protein-7g each, Carbs-57g each)"
+        },
+        {
+          "id": 5,
+          "name": "Oreo Truffle Cake",
+          "price": "N/A",
+          "description": "This Cake is a delightful and indulgent dessert that combines the beloved flavor of Oreo cookies with a creamy, luscious texture. It's a treat that's sure to please Oreo enthusiasts and dessert lovers alike."
+        },
+        {
+          "id": 6,
+          "name": "Choco Lava Cake",
+          "price": "₹89.00",
+          "description": "[Eggless]. Life is too short to say no to cake and Chocolate as you know is irresistible so indulge in our perfect creations for your sweet celebrations. (1 Serving, 308 Calories, Protein-7g, Carbs-46g)"
+        },
+        {
+          "id": 7,
+          "name": "Choco Chip Brownie - 1Pc",
+          "price": "₹129.00",
+          "description": "Brownies are the most loved and addictive dessert which are moist, soft in texture and gives you unique taste. Enjoy every bite and mark your moments."
+        },
+        {
+          "id": 8,
+          "name": "Red Velvet Brownie - 1Pc",
+          "price": "₹149.00",
+          "description": "Brownies are the most loved and addictive dessert which are moist, soft in texture and gives you unique taste. Enjoy every bite and mark your moments."
+        },
+        {
+          "id": 9,
+          "name": "Hazelnut Chocolate Brownie - 1Pc",
+          "price": "₹129.00",
+          "description": "Hazelnut Chocolate Brownie is a rich and decadent dessert, each bite offers a perfect blend of deep chocolate flavor and sweetness of hazelnuts on top, creating a harmonious and indulgent treat perfect for chocolate lovers."
+        },
+        {
+          "id": 10,
+          "name": "Red Velvet Mousse Brownie - 1Pc",
+          "price": "₹159.00",
+          "description": "The Red Velvet Mousse Brownie is a decadent dessert featuring a rich red velvet brownie base topped with a smooth and creamy red velvet mousse. This luxurious treat offers a perfect blend of textures and flavors, making it an elegant choice for any occasion."
+        },
+        {
+          "id": 11,
+          "name": "Plain Cheesecake Slice",
+          "price": "₹239.00",
+          "description": "[Eggless]. 120 gms. Nothing could be richer than a cheesecake. Try our cheesecake to know it for yourself."
+        },
+        {
+          "id": 12,
+          "name": "French Blueberry Cheesecake Slice",
+          "price": "₹279.00",
+          "description": "[Eggless]. 120 gm. This slice is a combination of creamy cheesecake, buttery crust, and vibrant blueberry filling flavor, all presented with a touch of French culinary elegance, creating a delicious dessert. (521 Calories, Protein-6g, Carbs-40g)"
+        },
+        {
+          "id": 13,
+          "name": "Choco Mousse Cheesecake Jar",
+          "price": "₹259.00",
+          "description": "[Eggless]. Mini Jar (150 gm). Smooth, rich, fresh, and with a dense texture of cheesecake and Choco Mousse appropriately constructed in a jar. Feeling low today? Gift yourself this amazing cake dessert which comes in a premium glass jar. (1151 Calories, Protein-10g, Carbs-88g)"
+        },
+        {
+          "id": 14,
+          "name": "Choco Lava & Choco Truffle Brownie",
+          "price": "₹259.00",
+          "description": "[Eggless]. There's nothing better than brownies. This unbeatable combination is a perfect choice for small celebrations. (2 Serving, 323 calories each)"
+        }
+      ]
+    
+  },
+  {
+      "id":16,
+      "name": "Starbucks Coffee",
+      "cuisine": "Beverages, Cafe",
+      "time": "20-25 MINS",
+      "price_for_two": "₹400",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Tall Cold Coffee with Creamy Spinach & Corn Pocket",
+          "price": "₹530.00",
+          "description": "Enjoy our rich espresso blended with delicate vanilla flavor and milk to create a perfect cold coffee delight. Served with a creamy spinach and corn filling encased in buttery French style dough.",
+          "serving_size": "Tall (354ml)",
+          "calories": "353 kcal",
+          "allergens": [
+            "Milk",
+            "Wheat",
+            "Soy"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Java Chip Frappuccino",
+          "price": "₹310.00",
+          "description": "A joyful blend of coffee, Java chips, and mocha syrup with milk and ice. Topped with a whipped vanilla swirl and mocha drizzle.",
+          "sizes": [
+            {
+              "size": "Tall",
+              "calories": "391.7 kcal"
+            },
+            {
+              "size": "Grande",
+              "calories": "536.19 kcal"
+            },
+            {
+              "size": "Venti",
+              "calories": "667.4 kcal"
+            }
+          ],
+          "allergens": [
+            "Wheat",
+            "Milk",
+            "Soy"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Caffe Americano",
+          "price": "₹230.00",
+          "description": "Espresso brewed from the world’s top 3% Arabica beans with hot water for the perfect caffeine fix.",
+          "sizes": [
+            {
+              "size": "Short",
+              "volume": "237 ml",
+              "calories": "0 kcal"
+            },
+            {
+              "size": "Tall",
+              "volume": "354 ml",
+              "calories": "0 kcal"
+            },
+            {
+              "size": "Grande",
+              "volume": "473 ml",
+              "calories": "0 kcal"
+            },
+            {
+              "size": "Venti",
+              "volume": "591 ml",
+              "calories": "0 kcal"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Egg White & Chicken In Multigrain Croissant",
+          "price": "₹355.00",
+          "description": "Fluffy egg white omelette and chicken ham sandwiched in a multigrain croissant.",
+          "serving_size": "200 g",
+          "calories": "541 kcal",
+          "allergens": [
+            "Wheat",
+            "Oats",
+            "Milk",
+            "Egg",
+            "Soy"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Cappuccino",
+          "price": "₹205.00",
+          "description": "Espresso brewed with the world's top 3% Arabica beans, steamed milk, and velvety foam.",
+          "sizes": [
+            {
+              "size": "Picco",
+              "volume": "180 ml",
+              "calories": "94.5 kcal"
+            }
+          ],
+          "allergens": [
+            "Milk"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Latte",
+          "price": "₹210.00",
+          "description": "Handcrafted with espresso from the World’s Top 3% Arabica, steamed milk with a light foam.",
+          "sizes": [
+            {
+              "size": "Picco",
+              "volume": "180 ml",
+              "calories": "75.6 kcal"
+            }
+          ],
+          "allergens": [
+            "Milk"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Tall Signature Hot Chocolate with Butter Croissant",
+          "price": "₹545.00",
+          "description": "Four cocoas and fresh steamed milk topped with whipped vanilla topping and chocolate powder, served with a flaky, buttery French style pastry.",
+          "serving_size": "Tall (354ml)",
+          "calories": "446 kcal",
+          "allergens": [
+            "Wheat",
+            "Barley",
+            "Milk",
+            "Egg",
+            "Soy"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Mocha Cookie Crumble Frappuccino",
+          "price": "₹475.00",
+          "description": "Blended coffee meets chocolate and cookies for a perfect combination.",
+          "sizes": [
+            {
+              "size": "Tall",
+              "volume": "354 ml",
+              "calories": "420 kcal"
+            },
+            {
+              "size": "Grande",
+              "volume": "431 ml",
+              "calories": "620 kcal"
+            },
+            {
+              "size": "Venti",
+              "volume": "591 ml",
+              "calories": "778 kcal"
+            }
+          ],
+          "allergens": [
+            "Milk",
+            "Soy",
+            "Wheat"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Mocha Cookie Crumble Cream Frappuccino",
+          "price": "₹475.00",
+          "description": "Milk and cookies meet chocolate for a perfect combination in this coffee-free delight.",
+          "sizes": [
+            {
+              "size": "Tall",
+              "volume": "354 ml",
+              "calories": "466 kcal"
+            },
+            {
+              "size": "Grande",
+              "volume": "431 ml",
+              "calories": "641 kcal"
+            },
+            {
+              "size": "Venti",
+              "volume": "591 ml",
+              "calories": "806 kcal"
+            }
+          ],
+          "allergens": [
+            "Milk",
+            "Soy",
+            "Wheat"
+          ]
+        }
+      ]
+    
+  },
+  {
+      "id":17,
+      "name": "Vadilal Ice Creams",
+      "cuisine": "Ice Cream, Desserts",
+      "time": "35-40 MINS",
+      "cost_for_two": "₹200",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "American Nuts I/c (700 Ml Party Pack 1+1)",
+          "price": "₹340.00",
+          "description": "It's time to party with the American Nuts ice cream party pack! Go nuts over the rich and creamy deliciousness with a flavor that never fails to surprise you! Kcal/serving: 226"
+        },
+        {
+          "id": 2,
+          "name": "Choco Brownie I/c (700 Ml Party Pack 1+1)",
+          "price": "₹320.00",
+          "description": "Irresistible and decadent, this is a delicious affair of rich and nutty brownie with finely crafted silky chocolate ice cream. Kcal/serving: 239"
+        },
+        {
+          "id": 3,
+          "name": "Chocolate Chips I/c (700 Ml Party Pack 1+1)",
+          "price": "₹300.00",
+          "description": "Bring home the party with Chocolate Chips ice cream pack. The crunchy chocolate chips give the perfect texture to creamy ice cream. Kcal/serving: 232"
+        },
+        {
+          "id": 4,
+          "name": "Vanilla I/c (700 Ml Party Pack 1+1)",
+          "price": "₹230.00",
+          "description": "There is nothing like good ol' vanilla! Rich, creamy and versatile, it has a burst of freshness with a hint of nostalgia. Kcal/serving: 192"
+        },
+        {
+          "id": 5,
+          "name": "Butter Scotch I/c (700 Ml Party Pack 1+1)",
+          "price": "₹280.00",
+          "description": "Crunchy, sweet and oh so delicious. Bite into the goodness of classy butterscotch and host a memorable party with our 1+1 butterscotch ice cream party pack. Kcal/serving: 225"
+        },
+        {
+          "id": 6,
+          "name": "Strawberry I/c (700 Ml Party Pack 1+1)",
+          "price": "₹240.00",
+          "description": "A deliciously sweet treat is awaiting you! Grab this amazing 1+1 party pack deal and impress everyone with their favorite strawberry ice cream treat. Kcal/serving: 192"
+        },
+        {
+          "id": 7,
+          "name": "No Sugar Vanilla (100 Ml)",
+          "price": "₹40.00",
+          "description": "Serves 1 | Indulge in the creamy and classic taste of vanilla with our Sugar-Free Vanilla Ice Cream! Enjoy the same rich and delicious flavor you love, without the added sugar. Satisfy your sweet tooth with this guilt-free treat, perfect for any time of day. Kcal/serving: 103.5"
+        },
+        {
+          "id": 8,
+          "name": "No Sugar Shahi Anjeer (100 Ml)",
+          "price": "₹50.00",
+          "description": "Serves 1 | Indulge in the rich and exotic flavor of Shahi Anjeer without the added sugar, with our Sugar-Free Shahi Anjeer Ice Cream. Made with the finest figs and rich milk, this flavor is the perfect guilt-free treat for any time of day. Transport your taste buds to a world of luxury and indulge in the unique taste of Shahi Anjeer. Kcal/serving: 118.9"
+        },
+        {
+          "id": 9,
+          "name": "Rich Vanilla Ice Cream Tub (1 Litre)",
+          "price": "₹220.00",
+          "description": "Rich vanilla ice cream, made with the finest cream and vanilla extract, for a truly luxurious experience. Indulge in the rich, creamy flavor of vanilla that will melt in your mouth. Kcal/serving: 192"
+        },
+        {
+          "id": 10,
+          "name": "Cassatta Slice (150 Ml)",
+          "price": "₹60.00",
+          "description": "Serves 1 | A tempting flavour packed with delicious flavors and enhanced by the soft texture of a generous layer of scrumptious cake. Kcal/serving: 248"
+        },
+        {
+          "id": 11,
+          "name": "Kesar Matka Kulfi (100 Ml)",
+          "price": "₹60.00",
+          "description": "Serves 1 | Made from the finest ingredients, this is a treat for the soul. The cream milk mingles with a rich flavor of kesar to create the perfect dessert. Kcal/serving: 163.2"
+        },
+        {
+          "id": 12,
+          "name": "Chowpatty (50 Ml)",
+          "price": "₹35.00",
+          "description": "Serves 1 | A household favorite made from creamy milk, enhanced by handpicked ingredients like pistachio, almonds and kesar. Kcal/serving: 139.4"
+        }
+      ]
+    
+  },
+  {
+      "id":2,
+      "name": "Richie Rich On Wheels",
+      "cuisine": "North Indian, Pastas",
+      "time": "35-40 MINS",
+      "cost_for_two": "₹300",
+      "recommended_items": [
+        {
+          "id": 1,
+          "name": "Tea + 200 Gms Fafda + 200 Gms Khaman",
+          "price": "₹N/A",
+          "description": "A classic combination of tea with crispy Fafda and soft Khaman."
+        },
+        {
+          "id": 2,
+          "name": "Tea + 200 Gms Khaman + 200 Gms Ldada",
+          "price": "₹N/A",
+          "description": "Enjoy tea paired with Khaman and Ldada for a delightful snack."
+        },
+        {
+          "id": 3,
+          "name": "Tea + 2 Plain Veg Sandwich",
+          "price": "₹N/A",
+          "description": "Simple and satisfying tea with two plain vegetable sandwiches."
+        },
+        {
+          "id": 4,
+          "name": "Tea + 2 Bread Butter",
+          "price": "₹N/A",
+          "description": "Classic tea served with two slices of bread butter."
+        },
+        {
+          "id": 5,
+          "name": "Tea + 200 Gms Fafda",
+          "price": "₹N/A",
+          "description": "Tea served with crispy Fafda."
+        },
+        {
+          "id": 6,
+          "name": "Tea + 1 Biscuit Pie (6 Pcs)",
+          "price": "₹280.00",
+          "description": "Tea accompanied by a biscuit pie with six pieces."
+        },
+        {
+          "id": 7,
+          "name": "Tea + 2 Mix Pokoda (200 Gms)",
+          "price": "₹N/A",
+          "description": "Tea served with a mix of Pokoda (200 grams)."
+        },
+        {
+          "id": 8,
+          "name": "Tea + 2 Bun Maska",
+          "price": "₹N/A",
+          "description": "Tea with two Bun Maskas for a delightful snack."
+        },
+        {
+          "id": 9,
+          "name": "Tea",
+          "price": "₹N/A",
+          "description": "Just tea."
+        },
+        {
+          "id": 10,
+          "name": "Jalebi (100 Gms)",
+          "price": "₹75.00",
+          "description": "Traditional sweet Jalebi, served in 100 grams."
+        },
+        {
+          "id": 11,
+          "name": "Jalebi (pure Ghee) 100gm",
+          "price": "₹75.00",
+          "description": "Jalebi made with pure ghee, served in 100 grams."
+        }
+      ]
+    
+  },
+  {
+      "id":19,
+      "name": "G Dada",
+      "cuisine": "Gujarati, Snacks",
+      "time": "35-40 MINS",
+      "price_for_two": "₹300",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Dudhi Na Muthiya",
+          "price": "₹85.00",
+          "description": "A traditional and healthy snack made with grated bottle gourd and spices. Unlike other Gujarati snacks, it is considered filling and healthy as it is steam-cooked and not deep-fried. Enjoy with coriander chutney.",
+          "serving_size": "250 gm"
+        },
+        {
+          "id": 2,
+          "name": "Handvo with dahi",
+          "price": "₹85.00",
+          "description": "Satisfy your savory breakfast cravings with this scrumptious Surti dish paired with cool dahi.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 3,
+          "name": "Methi Thepla with Dahi (5 Pcs Thepla and Dahi)",
+          "price": "₹95.00",
+          "description": "Delight in the savory flavors of tender Methi Thepla paired with creamy Dahi. An irresistible combination for a satisfying all-day breakfast.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 4,
+          "name": "Indori Poha",
+          "price": "₹71.00",
+          "description": "A flavorsome and satisfying breakfast treat to kickstart your day.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 5,
+          "name": "Cheese Paneer Paratha",
+          "price": "₹240.00",
+          "description": "A delicious whole wheat unleavened flatbread stuffed with a cheesy savory stuffing made with cheddar cheese. Served with dahi."
+        },
+        {
+          "id": 6,
+          "name": "Aloo Paratha",
+          "price": "₹170.00",
+          "description": "A deliciously soft aloo paratha prepared in Surti style with generous stuffing.",
+          "serving_size": "1 piece"
+        },
+        {
+          "id": 7,
+          "name": "Mariwala Idada",
+          "price": "₹85.00",
+          "description": "A delectable vegetarian all-day breakfast option that will leave your taste buds craving for more.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 8,
+          "name": "Sev Khamni",
+          "price": "₹85.00",
+          "description": "A unique and savory vegetarian dish packed with bold flavors.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 9,
+          "name": "Kothimbir Vadi",
+          "price": "₹90.00",
+          "description": "Kothimbir Vadi is a classic coriander leaves recipe that can be served as a snack or a side dish. It is a crispy snack food from Maharashtra that is deep-fried.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 10,
+          "name": "Vagharela Patra",
+          "price": "₹85.00",
+          "description": "A savory and flavorful vegetarian dish served hot.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 11,
+          "name": "Vagharela Khaman",
+          "price": "₹85.00",
+          "description": "A savory and flavorful breakfast dish that's perfect any time of day.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 12,
+          "name": "Patra Roll",
+          "price": "₹85.00",
+          "description": "Healthy Gujarati patra that is delicious as a snack. Prepared from besan and tastes amazing with green chutney.",
+          "serving_size": "Serves 1"
+        },
+        {
+          "id": 13,
+          "name": "Sada Khaman",
+          "price": "₹90.00",
+          "description": "A soft and fluffy Gujarati delight, perfect for a light and satisfying snack.",
+          "serving_size": "Serves 1"
+        }
+      ]
+    
+  },
+  {
+      "id":20,
+      "name": "Shree Sai Snacks And Fast Food",
+      "cuisine": "South Indian, Burgers",
+      "time": "35-40 MINS",
+      "price_for_two": "₹200",
+      "recommended": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "Veg Cheese Sandwich",
+          "price": "₹110.00",
+          "description": "A non-grilled sandwich stuffed with crunchy vegetables and loads of cheese.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 2,
+          "name": "Lassi",
+          "price": "₹90.00",
+          "description": "A refreshing and creamy blend of healthy ingredients to satisfy your taste buds."
+        },
+        {
+          "id": 3,
+          "name": "Buttermilk",
+          "price": "₹45.00",
+          "description": "Creamy, tangy, and perfectly complimentary to any savory dish."
+        },
+        {
+          "id": 4,
+          "name": "Cold Coffee",
+          "price": "₹110.00",
+          "description": "A refreshing and indulgent beverage with a smooth and creamy texture to satisfy your sweet cravings."
+        },
+        {
+          "id": 5,
+          "name": "Chocolate Milkshake",
+          "price": "₹85.00",
+          "description": "A refreshing milkshake prepared with chocolate ice cream, chocolate sauce, and wholesome milk - perfect to satisfy your cravings."
+        },
+        {
+          "id": 6,
+          "name": "Veg Cheese Burger",
+          "price": "₹110.00",
+          "description": "A cheesy veg burger made with lots of veggies and tasty sauces; served along with wafers."
+        },
+        {
+          "id": 7,
+          "name": "Idli Sambar",
+          "price": "₹80.00",
+          "description": "Spongy 2 pcs of idlis steamed to perfection.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 8,
+          "name": "Mysore Masala",
+          "price": "₹160.00",
+          "description": "Dosa served with mysore bhaji, sambhar, red garlic chutney, and white coconut chutney.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 9,
+          "name": "Nylon Dosa",
+          "price": "₹230.00",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 10,
+          "name": "Butter Mysore Masala",
+          "price": "₹200.00",
+          "description": "Butter dosa.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 11,
+          "name": "Rava Masala Dosa",
+          "price": "₹160.00",
+          "description": "A delightfully wholesome combo of mouthwatering set dosa.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 12,
+          "name": "Butter Rava Masala Dosa",
+          "price": "₹170.00",
+          "description": "A delightfully wholesome combo of mouthwatering butter rava masala dosa. Served with delectable sambhar and chutney.",
+          "modification_note": "Item can't be modified"
+        },
+        {
+          "id": 13,
+          "name": "Jain Butter Mysore Masala",
+          "price": "₹200.00",
+          "description": "A mouthwatering and creamy South Indian delight that has a rich and aromatic taste."
+        },
+        {
+          "id": 14,
+          "name": "Dahi Wada",
+          "price": "₹135.00",
+          "description": "A refreshing South Indian delight served in a creamy yogurt sauce."
+        },
+        {
+          "id": 15,
+          "name": "Poori Bhaji",
+          "price": "₹145.00",
+          "description": "Crispy pooris (3 pcs) served with a portion of aloo bhaji.",
+          "modification_note": "Item can't be modified"
+        }
+      ]
+    }
+  
+]
