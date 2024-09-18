@@ -18,7 +18,7 @@ const getDataFromFile = async (fileName) => {
   }
 };
 
-// Endpoint for data1.json
+// Endpoint for category data
 app.get('/api/category', async (req, res) => {
   try {
     const data = await getDataFromFile('foodCategory.json');
@@ -28,7 +28,7 @@ app.get('/api/category', async (req, res) => {
   }
 });
 
-// Endpoint for data2.json
+// Endpoint for food data
 app.get('/api/foodData', async (req, res) => {
   try {
     const data = await getDataFromFile('foodData.json');
@@ -38,7 +38,7 @@ app.get('/api/foodData', async (req, res) => {
   }
 });
 
-// Endpoint for RestaurantName.json
+// Endpoint for restaurant names
 app.get('/api/restaurantName', async (req, res) => {
   try {
     const data = await getDataFromFile('RestaurantName.json');
@@ -48,11 +48,24 @@ app.get('/api/restaurantName', async (req, res) => {
   }
 });
 
-// Endpoint for RestaurantItems.json
-app.get('/api/restaurantItems', async (req, res) => {
+// Endpoint for restaurant items with an optional ID
+app.get('/api/restaurantItems/:id?', async (req, res) => {
+  const { id } = req.params;
+
   try {
     const data = await getDataFromFile('RestaurantItems.json');
-    res.json(data);
+    
+    if (id) {
+      // Filter the items by the given ID
+      const filteredData = data.filter(item => item.id === parseInt(id, 10));
+      if (filteredData.length > 0) {
+        res.json(filteredData);
+      } else {
+        res.status(404).send('Item not found');
+      }
+    } else {
+      res.json(data);
+    }
   } catch (error) {
     res.status(500).send(error.message);
   }
