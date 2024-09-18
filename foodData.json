@@ -1,0 +1,931 @@
+{
+    "Biryani/Rice": [
+        {
+            
+            "name": "Chicken Fried Rice",
+            "img": "https://images.unsplash.com/photo-1569058242261-35d2acbc5675?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "options": {
+                "half": "130",
+                "full": "220"
+            },
+            "description": "Indian masalas and Basmati rice with barbequed chicken."
+        },
+        {
+            
+            "name": "Veg Fried Rice",
+            "img": "https://imgs.search.brave.com/fbNCPq8Z2w8vKsAdzkoHEUbXLutoLtQ_lBBcGsFWUpk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMw/MDc3Nzc5OC9waG90/by9oZWFsdGh5LXZl/Z2FuLWZyaWVkLXJp/Y2UuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPTVVeDBqbFlr/Z3FrN2VySXFSZkV6/VEhlZm5aaGVXQndw/aW5qQVd5MHVlalU9",
+            "options": {
+                "half": "110",
+                "full": "200"
+            },
+            "description": "Indian masalas and Basmati rice with assorted veggies."
+        },
+        {
+            
+            "name": "Fish Biryani",
+            "img": "https://imgs.search.brave.com/a7iBjmDYhLTyEZlmfDr6qOLin-x6U32vCqWhI2B6pEs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE1/ODMzMDk2MC9waG90/by9pbWFnZS1vZi1l/YXRpbmctc3VwZXJt/YXJrZXQtdGFrZWF3/YXktaW5kaWFuLWZv/b2Qtb2YtY2hpY2tl/bi1iaXJ5YW5pLXNh/ZmZyb24tcGlsYXUt/cmljZS1pbi5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9TVds/dWkzVGdFVkNyZGhj/TXlsaWt3aWZaT0Zv/U1ZtQi1uVDYwTzRM/WlRDcz0",
+            "options": {
+                "half": "200",
+                "full": "320"
+            },
+            "description": "Indian masalas and Basmati rice with flavorful fish."
+        },
+        {
+            "id": 1,
+            "name": "Chicken Biryani",
+            "img": "https://imgs.search.brave.com/eB8jASq_qDlSNzerfbVV1327zmMpVK9-NlWxDm2PAGs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jaGlja2VuLWJp/cnlhbmktaW1hZ2Vf/MTE5NzE0NC0zOTgu/anBnP3NpemU9NjI2/JmV4dD1qcGc",
+            "options": {
+                "half": "170",
+                "full": "300"
+            },
+            "description": "Aromatic basmati rice with spicy chicken."
+        },
+        {
+            "id": 1,
+            "name": "Veg Biryani",
+            "img": "https://imgs.search.brave.com/cGBh_UDKGcBySVZVt4XVojAS8rcfKq9pq2jktxfxoh8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc5/MDg1NDk0L3Bob3Rv/L2luZGlhbi1iaXJ5/YW5pLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1WSkFVZml1/YXZGWUI3UFh3aXN2/VWhMcVdGSjIwLTlt/MDg3LWN6VUpwOUZz/PQ",
+            "options": {
+                "half": "150",
+                "full": "260"
+            },
+            "description": "Aromatic basmati rice with mixed vegetables."
+        },
+        {
+            "id": 1,
+            "name": "Prawns Fried Rice",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJUunpf6x6W6GMLedmnIyc9b0gd5cY42WUg&s",
+            "options": {
+                "half": "120",
+                "full": "220"
+            },
+            "description": "Basmati rice stir-fried with prawns and spices."
+        },
+        {
+            "name": "Mutton Biryani",
+            "img": "https://happietrio.com/wp-content/uploads/2023/10/MuttonBiryani1-500x500.jpg",
+            "options": {
+                "half": "180",
+                "full": "320"
+            },
+            "description": "Tender mutton with spiced basmati rice."
+        },
+        {
+            "name": "Egg Biryani",
+            "img": "https://spicecravings.com/wp-content/uploads/2020/10/Egg-Biryani-Featured-1.jpg",
+            "options": {
+                "half": "130",
+                "full": "240"
+            },
+            "description": "Boiled eggs cooked with basmati rice and spices."
+        },
+        {
+            "name": "Paneer Biryani",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7-FereO4XCoXwXSlCv1XJJ6K3eNH4gqO5Q&s",
+            "options": {
+                "half": "150",
+                "full": "270"
+            },
+            "description": "Paneer cubes with spiced basmati rice."
+        },
+        {
+            "name": "Mushroom Fried Rice",
+            "img": "https://shwetainthekitchen.com/wp-content/uploads/2020/12/Spicy-Mushroom-Fried-Rice.jpg",
+            "options": {
+                "half": "140",
+                "full": "250"
+            },
+            "description": "Mushrooms stir-fried with basmati rice and spices."
+        }
+    ],
+    "Starter": [
+        {
+            "name": "Chilli Paneer",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxATEp1CGqHea1gWMln5jPIDjlw4yS09t2g&s",
+            "options": {
+                "half": "120",
+                "full": "200"
+            },
+            "description": "Paneer cubes tossed in spicy chilli sauce."
+        },
+        {
+            "name": "Paneer 65",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNnTfFQhOsH9sEu6aTR2b-Es6S4PETihUxQ&s",
+            "options": {
+                "half": "150",
+                "full": "260"
+            },
+            "description": "Crispy fried paneer with flavorful spices."
+        },
+        {
+            "name": "Chicken Tikka",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvvTwgNamD4TDBp4EYolAnlxmRjbCJcf1JA&s",
+            "options": {
+                "half": "170",
+                "full": "300"
+            },
+            "description": "Grilled chicken marinated in aromatic spices."
+        },
+        {
+            "name": "Paneer Tikka",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-stvhbpCIHk4_aVCxb0aekKPAJPLWM2FeA&s",
+            "options": {
+                "half": "170",
+                "full": "250"
+            },
+            "description": "Grilled paneer cubes with a spicy marinade."
+        },
+        {
+            "name": "Veg Manchurian",
+            "img": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/08/veg-manchurian-1.jpeg",
+            "options": {
+                "half": "110",
+                "full": "190"
+            },
+            "description": "Fried vegetable balls in tangy sauce."
+        },
+        {
+            "name": "Chicken Manchurian",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLBztKkxgzhDwkiwWmLqLz9mgqdfqT36XGQ&s",
+            "options": {
+                "half": "160",
+                "full": "280"
+            },
+            "description": "Fried chicken balls in tangy sauce."
+        },
+        {
+            "name": "Spring Rolls",
+            "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Spring-Roll-Recipe-500x375.jpg",
+            "options": {
+                "half": "100",
+                "full": "180"
+            },
+            "description": "Crispy rolls stuffed with vegetables."
+        },
+        {
+            "name": "Hara Bhara Kebab",
+            "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/01/hara-bhara-kabab-recipe-1.jpg",
+            "options": {
+                "half": "130",
+                "full": "220"
+            },
+            "description": "Spinach and peas patties with spices."
+        },
+        {
+            "name": "Chicken Lollipop",
+            "img": "https://www.licious.in/blog/wp-content/uploads/2022/02/shutterstock_761402230-600x600.jpg",
+            "options": {
+                "half": "180",
+                "full": "300"
+            },
+            "description": "Spicy and crispy chicken wings."
+        },
+        {
+            "name": "Fish Tikka",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqI_iv0dQJoyRbH4FJZhUBYRHodNsl1KZRng&s",
+            "options": {
+                "half": "200",
+                "full": "320"
+            },
+            "description": "Grilled fish marinated in flavorful spices."
+        }
+    ],
+    "Pizza": [
+        {
+            "name": "Chicken Cheese Pizza",
+            "img": "https://www.yummytummyaarthi.com/wp-content/uploads/2015/11/chicken-pizza-1.jpeg",
+            "options": {
+                "regular": "120",
+                "medium": "230",
+                "large": "350"
+            },
+            "description": "Pizza topped with cheese and grilled chicken."
+        },
+        {
+            "name": "Mix Veg Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimkNOwTKFY5Htx8RGW0GEjhSKGKUEGRhqCA&s",
+            "options": {
+                "regular": "100",
+                "medium": "200",
+                "large": "300"
+            },
+            "description": "Pizza topped with assorted vegetables and cheese."
+        },
+        {
+            "name": "Paneer Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilFQIZkn1KZCG_jZgSfUIr82isWO3vk8ZIg&s",
+            "options": {
+                "regular": "130",
+                "medium": "250",
+                "large": "370"
+            },
+            "description": "Pizza topped with spiced paneer and cheese."
+        },
+        {
+            "name": "Pepperoni Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSesw2XM-agQdLD9pouvHtpKKmOEkULJIl2w&s",
+            "options": {
+                "regular": "150",
+                "medium": "280",
+                "large": "400"
+            },
+            "description": "Pizza topped with pepperoni slices and cheese."
+        },
+        {
+            "name": "Mushroom Pizza",
+            "img": "https://i0.wp.com/www.splashoftaste.com/wp-content/uploads/2022/08/mushroom-pizza-featured.jpg",
+            "options": {
+                "regular": "120",
+                "medium": "240",
+                "large": "360"
+            },
+            "description": "Pizza topped with mushrooms and cheese."
+        },
+        {
+            "name": "BBQ Chicken Pizza",
+            "img": "https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg",
+            "options": {
+                "regular": "160",
+                "medium": "290",
+                "large": "420"
+            },
+            "description": "Pizza topped with BBQ chicken and cheese."
+        },
+        {
+            "name": "Margherita Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0undFfMNyl3kMlsYZGZSNXU99EkP8WLHkAQ&s",
+            "options": {
+                "regular": "90",
+                "medium": "170",
+                "large": "250"
+            },
+            "description": "Classic pizza with tomato, basil, and cheese."
+        },
+        {
+            "name": "Hawaiian Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAEJ0TRdsdiH-rm5McUyVtSxq3RkYZ9vP4Q&s",
+            "options": {
+                "regular": "130",
+                "medium": "250",
+                "large": "370"
+            },
+            "description": "Pizza topped with ham, pineapple, and cheese."
+        },
+        {
+            "name": "Spinach and Feta Pizza",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThXNPsH6rt9K7zwXOYZBVwPKEssMz9trlO2w&s",
+            "options": {
+                "regular": "140",
+                "medium": "260",
+                "large": "380"
+            },
+            "description": "Pizza with spinach, feta, and cheese."
+        },
+        {
+            "name": "Four Cheese Pizza",
+            "img": "https://static.onecms.io/wp-content/uploads/sites/19/2010/04/12/oh-four-cheese-pizza-x.jpg",
+            "options": {
+                "regular": "170",
+                "medium": "300",
+                "large": "430"
+            },
+            "description": "Pizza with four types of cheese."
+        }
+    ],
+    "Soups": [
+        {
+            "name": "Tomato Soup",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimUsLNTgOFYM5Ksz9FJG6WSGIJC2CjG7Abg&s",
+            "options": {
+                "small": "60",
+                "large": "100"
+            },
+            "description": "Classic tomato soup with fresh herbs."
+        },
+        {
+            "name": "Sweet Corn Soup",
+            "img": "https://j6e2i8c9.rocketcdn.me/wp-content/uploads/2014/10/Sweet-corn-soup-4.jpg",
+            "options": {
+                "small": "70",
+                "large": "120"
+            },
+            "description": "Sweet corn kernels in a creamy broth."
+        },
+        {
+            "name": "Hot and Sour Soup",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6bxlegNTvRSuirxgePHGj3DhrIg8P5Z9wQ&s",
+            "options": {
+                "small": "80",
+                "large": "130"
+            },
+            "description": "Spicy and tangy soup with vegetables."
+        },
+        {
+            "name": "Manchow Soup",
+            "img": "https://sinfullyspicy.com/wp-content/uploads/2023/12/1200-by-1200-images-1.jpg",
+            "options": {
+                "small": "80",
+                "large": "130"
+            },
+            "description": "Spicy soup with crunchy vegetables."
+        },
+        {
+            "name": "Chicken Soup",
+            "img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/10/Chicken-Soup-main-2.jpg",
+            "options": {
+                "small": "90",
+                "large": "150"
+            },
+            "description": "Hearty chicken soup with vegetables."
+        },
+        {
+            "name": "Mushroom Soup",
+            "img": "https://www.budgetbytes.com/wp-content/uploads/2024/02/Mushroom-Soup-Side.jpg",
+            "options": {
+                "small": "80",
+                "large": "130"
+            },
+            "description": "Creamy mushroom soup with herbs."
+        },
+        {
+            "name": "Miso Soup",
+            "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-01-miso-soup%2Fmiso-soup-030",
+            "options": {
+                "small": "100",
+                "large": "170"
+            },
+            "description": "Traditional Japanese soup with tofu."
+        },
+        {
+            "name": "Lemon Coriander Soup",
+            "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Lemon_Coriander_Soup_Recipe-2.jpg",
+            "options": {
+                "small": "70",
+                "large": "120"
+            },
+            "description": "Refreshing soup with lemon and coriander."
+        },
+        {
+            "name": "Broccoli Soup",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqV6O6dDkgwKTfNM3T0f0zMcL1POvGR9fIlQ&s",
+            "options": {
+                "small": "90",
+                "large": "150"
+            },
+            "description": "Healthy broccoli soup with a creamy base."
+        },
+        {
+            "name": "Carrot Ginger Soup",
+            "img": "https://www.twopeasandtheirpod.com/wp-content/uploads/2020/05/Carrot-Ginger-Soup-7.jpg",
+            "options": {
+                "small": "80",
+                "large": "130"
+            },
+            "description": "Warming soup with carrot and ginger."
+        }
+    ],
+    "Noodles": [
+        {
+            "name": "Hakka Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdmka3wHhCPigqcokfHfNqQx1RrAKdNjT9Q&s",
+            "options": {
+                "half": "100",
+                "full": "180"
+            },
+            "description": "Stir-fried noodles with vegetables and soy sauce."
+        },
+        {
+            "name": "Chicken Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQ94UPQXTRqkbFl3H-_EK95j9fwZ2VHvzwQ&s",
+            "options": {
+                "half": "120",
+                "full": "220"
+            },
+            "description": "Stir-fried noodles with chicken and vegetables."
+        },
+        {
+            "name": "Schezwan Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpChK9LwIyXl73wk_woisjscKPadeO1cu-lw&s",
+            "options": {
+                "half": "110",
+                "full": "200"
+            },
+            "description": "Spicy noodles with a blend of Schezwan sauce."
+        },
+        {
+            "name": "Egg Noodles",
+            "img": "https://i.ytimg.com/vi/GxerXnzENc0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBe6u-pXf8ylbOZHPNKWVyU5ZgQCw",
+            "options": {
+                "half": "100",
+                "full": "190"
+            },
+            "description": "Stir-fried noodles with scrambled eggs."
+        },
+        {
+            "name": "Veg Chowmein",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJG2q5fVI1qNsiHTv5_QQJ-i5IWaCiUYL86w&s",
+            "options": {
+                "half": "90",
+                "full": "170"
+            },
+            "description": "Crispy stir-fried noodles with mixed vegetables."
+        },
+        {
+            "name": "Chicken Chowmein",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkwh8-JgxwtlFkoDu39r-lJ6zLKg5S3jRFg&s",
+            "options": {
+                "half": "130",
+                "full": "230"
+            },
+            "description": "Crispy stir-fried noodles with chicken."
+        },
+        {
+            "name": "Singapore Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBntfnbpbamn4sMhFWBQanqpMxNkZgWMZWqQ&s",
+            "options": {
+                "half": "120",
+                "full": "210"
+            },
+            "description": "Thin rice noodles with curry flavor and vegetables."
+        },
+        {
+            "name": "Garlic Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsuJNY_fOFgtPV5rDQpaOKSoXqxqRNCLkQQ&s",
+            "options": {
+                "half": "110",
+                "full": "200"
+            },
+            "description": "Noodles stir-fried with garlic and soy sauce."
+        },
+        {
+            "name": "Mushroom Noodles",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKt1yal9tE6hBdGPFLFaW_ahtUYG8BPwwmsQ&s",
+            "options": {
+                "half": "120",
+                "full": "220"
+            },
+            "description": "Noodles stir-fried with mushrooms and vegetables."
+        }
+    ],
+    "Indian": [
+        {
+            "name": "Chicken Curry",
+            "img": "https://kitchenofdebjani.com/wp-content/uploads/2023/04/easy-indian-chicken-curry-Recipe-for-beginners-Debjanir-rannaghar.jpg",
+            "options": {
+                "small": "150",
+                "large": "250"
+            },
+            "description": "Spicy chicken curry with traditional Indian spices."
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpiCiOVd2z7Qhnu1FDY90QF7zkYcLfP1jgyA&s",
+            "options": {
+                "small": "160",
+                "large": "270"
+            },
+            "description": "Paneer cubes in a creamy tomato-based sauce."
+        },
+        {
+            "name": "Dal Tadka",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBwQjYAU-g9ZKjZHGneE5IPpMOv6LQAo1Dw&s",
+            "options": {
+                "small": "120",
+                "large": "200"
+            },
+            "description": "Lentils cooked with spices and garnished with tempering."
+        },
+        {
+            "name": "Butter Chicken",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJOLKIgAh-T960qU90g1dxSWzO1-oTm5JtA&s",
+            "options": {
+                "small": "170",
+                "large": "290"
+            },
+            "description": "Tender chicken pieces in a rich, buttery tomato sauce."
+        },
+        {
+            "name": "Palak Paneer",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWssGcGejWD3GjOUlWJavoQgJvPwYrgcixA&s",
+            "options": {
+                "small": "150",
+                "large": "260"
+            },
+            "description": "Paneer cubes in a spiced spinach gravy."
+        },
+        {
+            "name": "Chole Bhature",
+            "img": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg",
+            "options": {
+                "small": "180",
+                "large": "320"
+            },
+            "description": "Spicy chickpea curry served with deep-fried bread."
+        },
+        {
+            "name": "Aloo Gobi",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_rGA_pC3z7FGLEt3SsvDGhZtxlmWVneJHw&s",
+            "options": {
+                "small": "140",
+                "large": "240"
+            },
+            "description": "Potatoes and cauliflower stir-fried with spices."
+        },
+        {
+            "name": "Rogan Josh",
+            "img": "https://www.whiskaffair.com/wp-content/uploads/2019/02/Mutton-Rogan-Josh-2-3.jpg",
+            "options": {
+                "small": "190",
+                "large": "310"
+            },
+            "description": "Slow-cooked lamb in a spicy, aromatic gravy."
+        },
+        {
+            "name": "Kadai Paneer",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-j1XdLKn31g1i4xhsLYgRw0eiuPzxMgyHpw&s",
+            "options": {
+                "small": "160",
+                "large": "270"
+            },
+            "description": "Paneer cooked with bell peppers and spices."
+        },
+        {
+            "name": "Rajma",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSAE98-fv4ZYMnuMwrcAML_VUYqRBde7cKQ&s",
+            "options": {
+                "small": "130",
+                "large": "220"
+            },
+            "description": "Red kidney beans cooked in a spicy tomato gravy."
+        }
+    ],
+    "Italian": [
+        {
+            "name": "Margherita Pizza",
+            "img": "https://cdn.loveandlemons.com/wp-content/uploads/2023/07/margherita-pizza-500x500.jpg",
+            "options": {
+                "small": "150",
+                "medium": "250",
+                "large": "350"
+            },
+            "description": "Classic pizza with tomato, mozzarella, and basil."
+        },
+        {
+            "name": "Pasta Carbonara",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxWkbZ2MJPTVKZwuSKuVm7EhP0OSMOsS5Pg&s",
+            "options": {
+                "small": "130",
+                "large": "220"
+            },
+            "description": "Pasta with eggs, cheese, pancetta, and pepper."
+        },
+        {
+            "name": "Lasagna",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvTxeDfrVXcv9SwPx3gtLqam3MbgXjHsTng&s",
+            "options": {
+                "small": "160",
+                "large": "280"
+            },
+            "description": "Layers of pasta with meat sauce and cheese."
+        },
+        {
+            "name": "Pesto Pasta",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdoVRw4NTNPvc8LuV_x5UU28oQiGYHiaG9Pg&s",
+            "options": {
+                "small": "140",
+                "large": "240"
+            },
+            "description": "Pasta tossed in a fresh basil pesto sauce."
+        },
+        {
+            "name": "Fettuccine Alfredo",
+            "img": "https://www.simplyrecipes.com/thmb/M8XKDSLRjM-zGL90tk-o2Tj6bAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Copycat-Olive-Garden-Alfredo-LEAD-4-8f75111d3a324a0abb1ee46906f27417.jpg",
+            "options": {
+                "small": "150",
+                "large": "260"
+            },
+            "description": "Creamy pasta with a rich Alfredo sauce."
+        },
+        {
+            "name": "Caprese Salad",
+            "img": "https://whatsgabycooking.com/wp-content/uploads/2023/06/Dinner-Party-__-Traditional-Caprese-1-1200x800-1.jpg",
+            "options": {
+                "small": "120",
+                "large": "200"
+            },
+            "description": "Fresh tomatoes, mozzarella, and basil with balsamic glaze."
+        },
+        {
+            "name": "Spinach Ravioli",
+            "img": "https://static.toiimg.com/thumb/55510928.cms?imgsize=234343&width=800&height=800",
+            "options": {
+                "small": "130",
+                "large": "230"
+            },
+            "description": "Ravioli stuffed with spinach and ricotta cheese."
+        },
+        {
+            "name": "Mushroom Risotto",
+            "img": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/mushroom-risotto.jpg",
+            "options": {
+                "small": "140",
+                "large": "240"
+            },
+            "description": "Creamy risotto with mushrooms and Parmesan cheese."
+        },
+        {
+            "name": "Chicken Parmesan",
+            "img": "https://www.budgetbytes.com/wp-content/uploads/2024/04/Chicken-Parmesan-Overhead-500x500.jpg",
+            "options": {
+                "small": "150",
+                "large": "270"
+            },
+            "description": "Breaded chicken topped with marinara and mozzarella."
+        },
+        {
+            "name": "Marinara Pizza",
+            "img": "https://eu.ooni.com/cdn/shop/articles/marinara-for-web.jpg?crop=center&height=800&v=1593515321&width=800",
+            "options": {
+                "small": "140",
+                "medium": "240",
+                "large": "340"
+            },
+            "description": "Pizza topped with marinara sauce and garlic."
+        }
+    ],
+    "Chicken": [
+        {
+            "name": "Chicken Tikka",
+            "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-kebab.jpg",
+            "options": {
+                "small": "150",
+                "large": "270"
+            },
+            "description": "Spicy marinated chicken grilled to perfection."
+        },
+        {
+            "name": "Chicken Korma",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoV8A3Wn6MI0OWKBCiyA5CCFiTPawr0Lpe8A&s",
+            "options": {
+                "small": "160",
+                "large": "280"
+            },
+            "description": "Chicken cooked in a creamy, spiced yogurt sauce."
+        },
+        {
+            "name": "Butter Chicken",
+            "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
+            "options": {
+                "small": "170",
+                "large": "300"
+            },
+            "description": "Tender chicken pieces in a rich, buttery tomato sauce."
+        },
+        {
+            "name": "Chicken Biryani",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XArdJVkpI1uLU-3LxxkUhKHosbHkt8da6w&s",
+            "options": {
+                "small": "180",
+                "large": "320"
+            },
+            "description": "Spiced rice layered with tender chicken pieces."
+        },
+        {
+            "name": "Chicken Shawarma",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top",
+            "options": {
+                "small": "140",
+                "large": "250"
+            },
+            "description": "Marinated chicken wrapped in pita with vegetables and sauces."
+        },
+        {
+            "name": "Chicken Parmesan",
+            "img": "https://www.budgetbytes.com/wp-content/uploads/2024/04/Chicken-Parmesan-Overhead-500x500.jpg",
+            "options": {
+                "small": "160",
+                "large": "290"
+            },
+            "description": "Breaded chicken topped with marinara and melted cheese."
+        },
+        {
+            "name": "Chicken Satay",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24Vhx-kLBK-NoNREpaEaYr1p5ZAK8jtjeQQ&s",
+            "options": {
+                "small": "130",
+                "large": "230"
+            },
+            "description": "Grilled chicken skewers served with peanut sauce."
+        },
+        {
+            "name": "Chicken Alfredo",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS58IzJTeYDY_o7Vm8C5wn2t31xJW8vKTVew&s",
+            "options": {
+                "small": "150",
+                "large": "260"
+            },
+            "description": "Pasta with chicken in a creamy Alfredo sauce."
+        },
+        {
+            "name": "Chicken Curry",
+            "img": "https://kitchenofdebjani.com/wp-content/uploads/2023/04/easy-indian-chicken-curry-Recipe-for-beginners-Debjanir-rannaghar.jpg",
+            "options": {
+                "small": "160",
+                "large": "280"
+            },
+            "description": "Spicy chicken cooked in a fragrant curry sauce."
+        },
+        {
+            "name": "Chicken Fajitas",
+            "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Chicken-Curry-Recipe.jpg",
+            "options": {
+                "small": "140",
+                "large": "250"
+            },
+            "description": "Grilled chicken with peppers and onions served with tortillas."
+        }
+    ],
+    "Burger": [
+        {
+            "name": "Cheeseburger",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/640px-Cheeseburger.jpg",
+            "options": {
+                "single": "120",
+                "double": "200"
+            },
+            "description": "Juicy beef patty with cheese, lettuce, and tomato."
+        },
+        {
+            "name": "Bacon Burger",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6isLhEmC0563sFX3Y-9kJbzDf6PfhPCE7lg&s",
+            "options": {
+                "single": "130",
+                "double": "210"
+            },
+            "description": "Beef patty topped with crispy bacon and cheese."
+        },
+        {
+            "name": "Veggie Burger",
+            "img": "https://www.seriouseats.com/thmb/_c-xbP-tch4dpSTxKE1zY16sHo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-VeganBurger-FredHardy-00-dbf603c78b694bfd99489b85ab44f4c4.jpg",
+            "options": {
+                "single": "110",
+                "double": "190"
+            },
+            "description": "Grilled vegetable patty with fresh lettuce and tomato."
+        },
+        {
+            "name": "BBQ Burger",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLdFmf55mVpX-P3G_V6dS9curApERp4R45w&s",
+            "options": {
+                "single": "140",
+                "double": "220"
+            },
+            "description": "Beef patty with BBQ sauce, onions, and cheese."
+        },
+        {
+            "name": "Mushroom Swiss Burger",
+            "img": "https://www.thecookierookie.com/wp-content/uploads/2021/09/featured-bbq-burgers-recipe.jpg",
+            "options": {
+                "single": "150",
+                "double": "230"
+            },
+            "description": "Beef patty topped with sautéed mushrooms and Swiss cheese."
+        },
+        {
+            "name": "Spicy Chicken Burger",
+            "img": "https://flawlessfood.co.uk/wp-content/uploads/2020/02/blog-200225-Spicy-Chicken-Burger-14686.jpg",
+            "options": {
+                "single": "130",
+                "double": "210"
+            },
+            "description": "Spicy chicken patty with lettuce and mayo."
+        },
+        {
+            "name": "Classic Burger",
+            "img": "https://www.thespruceeats.com/thmb/zBVaQHpbcBiz2ohBMpRJENoJ6pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-fried-chicken-sandwich-5220981-hero-01-f742363e943f4fc1aff902da3342765a.jpg",
+            "options": {
+                "single": "120",
+                "double": "200"
+            },
+            "description": "Beef patty with pickles, onions, and ketchup."
+        },
+        {
+            "name": "Fish Burger",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxS24aT8-WAWzmem4aOzf5T9D674WpkQ8_ag&s",
+            "options": {
+                "single": "140",
+                "double": "220"
+            },
+            "description": "Crispy fish fillet with tartar sauce and lettuce."
+        },
+        {
+            "name": "Avocado Burger",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKlrE-ANq0d0urNTDOwmFGSlCu2Z807xh3yf8F5PLlC9p065tQF8WV1OVx_1MC5H20Od8&usqp=CAU",
+            "options": {
+                "single": "150",
+                "double": "230"
+            },
+            "description": "Beef patty with fresh avocado and a tangy sauce."
+        },
+        {
+            "name": "Chicken Parmesan Burger",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZydvjI0g7kGpCVXkQ-rERcyw-pcfyOOjlZmwNuyXsc4zCMCLnCHkMJ0GQQgQEwEtxxB8&usqp=CAU",
+            "options": {
+                "single": "160",
+                "double": "240"
+            },
+            "description": "Chicken patty topped with marinara sauce and melted cheese."
+        }
+    ],
+    "Seafood": [
+        {
+            "name": "Grilled Salmon",
+            "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?resize=768,574",
+            "options": {
+                "small": "200",
+                "large": "350"
+            },
+            "description": "Salmon fillet grilled with herbs and spices."
+        },
+        {
+            "name": "Shrimp Scampi",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcmSaO-3A6oA4GXv5jLfDWAfX_1SO8FhpB4Q&s",
+            "options": {
+                "small": "180",
+                "large": "320"
+            },
+            "description": "Shrimp sautéed in garlic butter and white wine."
+        },
+        {
+            "name": "Fish Tacos",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-S4hYI2BuWEShokrdEJuLf6NPuG4HJCo8g&s",
+            "options": {
+                "small": "150",
+                "large": "270"
+            },
+            "description": "Tacos filled with grilled fish and fresh salsa."
+        },
+        {
+            "name": "Clam Chowder",
+            "img": "https://rachaelsgoodeats.com/wp-content/uploads/2023/12/231208_pistachio-crusted-fish-tacos-15.jpg",
+            "options": {
+                "small": "160",
+                "large": "280"
+            },
+            "description": "Creamy soup with clams and potatoes."
+        },
+        {
+            "name": "Crab Cakes",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/crab-cakes-index-64e7cee7d4dda.jpg?crop=0.8891500963202403xw:1xh;center,top&resize=1200:*",
+            "options": {
+                "small": "170",
+                "large": "300"
+            },
+            "description": "Crispy crab cakes with a tangy dipping sauce."
+        },
+        {
+            "name": "Calamari",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReE068fJ92w_60oE9dlX1kSU3Z2vAx8xE7JQ&s",
+            "options": {
+                "small": "140",
+                "large": "250"
+            },
+            "description": "Fried squid rings served with marinara sauce."
+        },
+        {
+            "name": "Seafood Paella",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsM4tx41XGYEWIwe-J0o_Ih2irlauVVfBHPg&s",
+            "options": {
+                "small": "220",
+                "large": "380"
+            },
+            "description": "Rice dish with a variety of seafood and saffron."
+        },
+        {
+            "name": "Oysters Rockefeller",
+            "img": "https://www.charlottefashionplate.com/wp-content/uploads/2019/03/422838fb-71e1-4854-827a-88fadeb12f47.jpg",
+            "options": {
+                "small": "200",
+                "large": "350"
+            },
+            "description": "Oysters baked with a rich butter and herb topping."
+        },
+        {
+            "name": "Lobster Roll",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4DCjEbHMjja8PRdNd64J2NkXCCbU1tMe6mQ&s",
+            "options": {
+                "small": "250",
+                "large": "400"
+            },
+            "description": "Lobster meat in a buttery roll with light seasoning."
+        },
+        {
+            "name": "Prawn Curry",
+            "img": "https://glebekitchen.com/wp-content/uploads/2021/10/southindianprawncurrytopbowl.jpg",
+            "options": {
+                "small": "180",
+                "large": "320"
+            },
+            "description": "Spicy curry with tender prawns."
+        }
+    ]
+}
