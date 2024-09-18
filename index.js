@@ -1,16 +1,8 @@
 import express from 'express';
 import { promises as fs } from 'fs';
-import dotenv from 'dotenv';
-import cors from 'cors';
-
-// Load environment variables from .env file
-dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 5000;
-
-// Enable CORS for all routes
-app.use(cors());
 
 // Function to read data from a file
 const getDataFromFile = async (fileName) => {
@@ -22,7 +14,7 @@ const getDataFromFile = async (fileName) => {
   }
 };
 
-// Endpoint for food categories
+// Endpoint for data1.json
 app.get('/api/category', async (req, res) => {
   try {
     const data = await getDataFromFile('foodCategory.json');
@@ -32,7 +24,7 @@ app.get('/api/category', async (req, res) => {
   }
 });
 
-// Endpoint for food data
+// Endpoint for data2.json
 app.get('/api/foodData', async (req, res) => {
   try {
     const data = await getDataFromFile('foodData.json');
@@ -41,6 +33,30 @@ app.get('/api/foodData', async (req, res) => {
     res.status(500).send(error.message);
   }
 });
+
+
+// Endpoint for RestaurantName.json
+app.get('/api/restaurantName', async (req, res) => {
+  try {
+    const data = await getDataFromFile('RestaurantName.json');
+    res.json(data);
+  } catch (error) {
+    res.status(500).send(error.message);
+  }
+});
+
+
+// Endpoint for RestaurantItems.json
+app.get('/api/restaurantItems', async (req, res) => {
+  try {
+    const data = await getDataFromFile('RestaurantItems.json');
+    res.json(data);
+  } catch (error) {
+    res.status(500).send(error.message);
+  }
+});
+
+
 
 // Root route
 app.get('/', (req, res) => {
