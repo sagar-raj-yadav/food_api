@@ -1,8 +1,12 @@
 import express from 'express';
 import { promises as fs } from 'fs';
+import cors from 'cors'; // Import the cors package
 
 const app = express();
 const port = process.env.PORT || 5000;
+
+// Apply CORS middleware to allow all origins
+app.use(cors());
 
 // Function to read data from a file
 const getDataFromFile = async (fileName) => {
@@ -34,7 +38,6 @@ app.get('/api/foodData', async (req, res) => {
   }
 });
 
-
 // Endpoint for RestaurantName.json
 app.get('/api/restaurantName', async (req, res) => {
   try {
@@ -45,7 +48,6 @@ app.get('/api/restaurantName', async (req, res) => {
   }
 });
 
-
 // Endpoint for RestaurantItems.json
 app.get('/api/restaurantItems', async (req, res) => {
   try {
@@ -55,8 +57,6 @@ app.get('/api/restaurantItems', async (req, res) => {
     res.status(500).send(error.message);
   }
 });
-
-
 
 // Root route
 app.get('/', (req, res) => {
