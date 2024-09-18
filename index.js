@@ -1,5 +1,9 @@
 import express from 'express';
 import { promises as fs } from 'fs';
+import dotenv from 'dotenv';
+
+// Load environment variables from .env file
+dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 5000;
@@ -14,7 +18,7 @@ const getDataFromFile = async (fileName) => {
   }
 };
 
-// Endpoint for data1.json
+// Endpoint for food categories
 app.get('/api/category', async (req, res) => {
   try {
     const data = await getDataFromFile('foodCategory.json');
@@ -24,7 +28,7 @@ app.get('/api/category', async (req, res) => {
   }
 });
 
-// Endpoint for data2.json
+// Endpoint for food data
 app.get('/api/foodData', async (req, res) => {
   try {
     const data = await getDataFromFile('foodData.json');
