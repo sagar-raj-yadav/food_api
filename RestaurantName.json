@@ -1,0 +1,163 @@
+ [
+  {
+      "id": 1,
+      "name": "Mudita Ni Mithaio",
+      "cuisine": "Sweets, Desserts, Fast Food",
+      "location": "Nanpura",
+      "distance": "3.9 km",
+      "image": "https://i0.wp.com/imageio.forbes.com/specials-images/imageserve/62fe3a28c22bf8624fce7c7a/0x0.jpg?format=jpg&width=1200"
+  },
+  {
+      "id": 2,
+      "name": "Richie Rich On Wheels",
+      "cuisine": "North Indian, Pastas, Italian, Indian, American, Chinese, South Indian, Pizzas, Tandoor, Punjabi",
+      "location": "Square Complex",
+      "distance": "6.8 km",
+      "image": "https://th.bing.com/th/id/OIP.qQ7iKRGKr774NKlvUCgXMwHaED?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 3,
+      "name": "Jani Locho",
+      "cuisine": "Gujarati, Snacks",
+      "location": "Adajan Patiya",
+      "distance": "6.0 km",
+      "image": "https://th.bing.com/th/id/OIP.5c4sAMftOqDDJZiDmwGEFgHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 4,
+      "name": "Jalaram Locho & Khaman",
+      "cuisine": "Gujarati, Snacks, Fast Food, Street Food, Indian",
+      "location": "Katargam",
+      "distance": "6.8 km",
+      "image": "https://i.pinimg.com/originals/42/06/92/420692b178ff8b05aea4a48176744a30.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Amdavadi Naylon Khaman- Bhatar",
+      "cuisine": "Gujarati, Snacks",
+      "location": "BHATAR",
+      "distance": "2.4 km",
+      "image": "https://th.bing.com/th/id/OIP.VHXtZJD48Ro6b-r1eNxDoAAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 6,
+      "name": "Jani Locho House",
+      "cuisine": "Gujarati, Snacks",
+      "location": "Piplod",
+      "distance": "6.9 km",
+      "image": "https://i.pinimg.com/originals/58/c6/6f/58c66faae43a5b86f7954e4facb51876.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Jalaram Locho & Rasawala Khaman",
+      "cuisine": "Gujarati, Snacks, Street Food, Fast Food",
+      "location": "Katargam",
+      "distance": "6.8 km",
+      "image": "https://i.pinimg.com/originals/0d/b7/ad/0db7adc400ada8465a25f3b808534fe6.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Maakhan Bhog",
+      "cuisine": "Desserts",
+      "location": "Silicon Shopper",
+      "distance": "1.6 km",
+      "image": "https://th.bing.com/th/id/OIP.g6ht4rkZe5dhAijEGkwLrQHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 9,
+      "name": "Jani Farsan House",
+      "cuisine": "Gujarati, Snacks, Fast Food",
+      "location": "Canal Road, Vesu",
+      "distance": "6.2 km",
+      "image": "https://th.bing.com/th/id/R.3fea1f292d86111d9d4437060900ce3e?rik=eDQc6R2H4wEvfw&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2013%2f07%2f16%2f10933230%2fTheMarker1.jpg&ehk=r01sU0ovcFNjvUooyVMOd9jrqd4y606xws82H7RQB5o%3d&risl=1&pid=ImgRaw&r=0"
+  },
+  {
+      "id": 10,
+      "name": "Surti Khaman House",
+      "cuisine": "Gujarati, Snacks",
+      "location": "Gopipura",
+      "distance": "4.1 km",
+      "image": "https://th.bing.com/th/id/OIP.tzSV6W72nZtju7phoXI0AAHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 11,
+      "name": "Jani Locho & Khaman House",
+      "cuisine": "Gujarati, Snacks",
+      "location": "City Light Town",
+      "distance": "5.0 km",
+      "image": "https://th.bing.com/th/id/OIP.4zM0QaIqXJk6xzKPxAiNbAHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 12,
+      "name": "Radhe Dhokla-(Punjabi, Chinese, Thali & Biryani)",
+      "cuisine": "Gujarati, Biryani, Chinese, North Indian, Punjabi, Indian, Thalis",
+      "location": "Ring Road",
+      "distance": "2.6 km",
+      "image": "https://th.bing.com/th/id/OIP.ZmKqEgiq0HSkABaWLzjhQgAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 13,
+      "name": "Theobroma",
+      "cuisine": "Bakery, Desserts",
+      "location": "Ghod Dod Road",
+      "distance": "4.4 km",
+      "image": "https://th.bing.com/th/id/OIP.Q5F8jXJu_S8nbaZNM5qhwgHaE7?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 14,
+      "name": "Ovenfresh",
+      "cuisine": "Bakery, Desserts, Beverages, Ice Cream, Sweets, Juices, Bengali, Pizzas",
+      "location": "Jeevkar Nagar",
+      "distance": "3.9 km",
+      "image": "https://th.bing.com/th/id/R.6eb083745a8ad6bcaea805eb261277cb?rik=Wq0YMvVTQo9evA&riu=http%3a%2f%2fcdn.thecoolist.com%2fwp-content%2fuploads%2f2016%2f07%2fSTK-Rooftop-fancy-dining-nyc-960x642.jpg&ehk=pz6FZ1mvKkW5PfZ9seLvSWIItzPPBdNwMPOYnz1%2fxOs%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+      "id": 15,
+      "name": "Tea Post",
+      "cuisine": "Fast Food, Beverages, Coffee",
+      "location": "Athwa",
+      "distance": "3.6 km",
+      "image": "https://i.pinimg.com/originals/0f/79/29/0f79297f7f11a527bd88890ebc001db0.jpg"
+  },
+  {
+      "id": 16,
+      "name": "Cheesecakes By CakeZone",
+      "cuisine": "Bakery, Desserts",
+      "location": "Jeevkar Nagar",
+      "distance": "3.9 km",
+      "image": "https://th.bing.com/th/id/OIP.0XeAhG7KVO6scC4Ppe7j5QHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 17,
+      "name": "Starbucks Coffee",
+      "cuisine": "Beverages, Cafe, Snacks, Desserts, Bakery, Ice Cream",
+      "location": "City Light",
+      "distance": "5.0 km",
+      "image": "https://th.bing.com/th/id/OIP.9UibUqpUVtLSbwbvhHzMWQHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+      "id": 18,
+      "name": "Vadilal Ice Creams",
+      "cuisine": "Ice Cream, Desserts",
+      "location": "Piplod",
+      "distance": "5.6 km",
+      "image": "https://media.timeout.com/images/100685289/image.jpg"
+  },
+  {
+      "id": 19,
+      "name": "Subway",
+      "cuisine": "Fast Food, Salads, Beverages, Cafe, Snacks, Desserts, Ice Cream",
+      "location": "City Light Town",
+      "distance": "4.8 km",
+      "image": "https://stylesatlife.com/wp-content/uploads/2023/08/Luxurious-Skies-8.jpg"
+  },
+  {
+      "id": 20,
+      "name": "Ajay's Takeaway Food",
+      "cuisine": "Fast Food, Street Food, American",
+      "location": "Jeevkar Nagar",
+      "distance": "3.9 km",
+      "image": "https://th.bing.com/th/id/OIP.hjxQ5lp0ELgv_egrZfNz7QHaHY?rs=1&pid=ImgDetMain"
+  }
+]
+
